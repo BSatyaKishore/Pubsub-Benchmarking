@@ -1,0 +1,3217 @@
+nohup: ignoring input
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+15:21:54.844 [info] Application lager started on node nonode@nohost
+15:21:54.845 [info] Application emqttc started on node nonode@nohost
+15:21:54.845 [info] Application emqtt_benchmark started on node nonode@nohost
+conneted: 1
+conneted: 2
+conneted: 3
+conneted: 4
+conneted: 5
+conneted: 6
+conneted: 7
+conneted: 8
+conneted: 9
+conneted: 10
+conneted: 11
+conneted: 12
+sent(6000): total=2, rate=2(msg/sec)
+conneted: 13
+conneted: 14
+sent(7000): total=4, rate=2(msg/sec)
+conneted: 15
+conneted: 16
+sent(8000): total=6, rate=2(msg/sec)
+conneted: 17
+conneted: 18
+sent(9000): total=8, rate=2(msg/sec)
+conneted: 19
+conneted: 20
+sent(10000): total=10, rate=2(msg/sec)
+conneted: 21
+conneted: 22
+sent(11000): total=14, rate=4(msg/sec)
+conneted: 23
+conneted: 24
+sent(12000): total=18, rate=4(msg/sec)
+conneted: 25
+conneted: 26
+sent(13000): total=22, rate=4(msg/sec)
+conneted: 27
+conneted: 28
+sent(14000): total=26, rate=4(msg/sec)
+conneted: 29
+conneted: 30
+sent(15000): total=30, rate=4(msg/sec)
+conneted: 31
+conneted: 32
+sent(16000): total=36, rate=6(msg/sec)
+conneted: 33
+conneted: 34
+sent(17000): total=42, rate=6(msg/sec)
+conneted: 35
+conneted: 36
+sent(18000): total=48, rate=6(msg/sec)
+conneted: 37
+conneted: 38
+sent(19000): total=54, rate=6(msg/sec)
+conneted: 39
+conneted: 40
+sent(20000): total=60, rate=6(msg/sec)
+conneted: 41
+conneted: 42
+sent(21000): total=68, rate=8(msg/sec)
+conneted: 43
+conneted: 44
+sent(22000): total=76, rate=8(msg/sec)
+conneted: 45
+conneted: 46
+sent(23000): total=84, rate=8(msg/sec)
+conneted: 47
+conneted: 48
+sent(24000): total=92, rate=8(msg/sec)
+conneted: 49
+conneted: 50
+sent(25000): total=100, rate=8(msg/sec)
+conneted: 51
+conneted: 52
+sent(26000): total=110, rate=10(msg/sec)
+conneted: 53
+conneted: 54
+sent(27000): total=120, rate=10(msg/sec)
+conneted: 55
+conneted: 56
+sent(28000): total=130, rate=10(msg/sec)
+conneted: 57
+conneted: 58
+sent(29000): total=140, rate=10(msg/sec)
+conneted: 59
+conneted: 60
+sent(30000): total=150, rate=10(msg/sec)
+conneted: 61
+conneted: 62
+sent(31000): total=162, rate=12(msg/sec)
+conneted: 63
+conneted: 64
+sent(32000): total=174, rate=12(msg/sec)
+conneted: 65
+conneted: 66
+sent(33000): total=186, rate=12(msg/sec)
+conneted: 67
+conneted: 68
+sent(34000): total=198, rate=12(msg/sec)
+conneted: 69
+conneted: 70
+sent(35000): total=210, rate=12(msg/sec)
+conneted: 71
+conneted: 72
+sent(36000): total=224, rate=14(msg/sec)
+conneted: 73
+conneted: 74
+sent(37000): total=238, rate=14(msg/sec)
+conneted: 75
+conneted: 76
+sent(38000): total=252, rate=14(msg/sec)
+conneted: 77
+conneted: 78
+sent(39000): total=266, rate=14(msg/sec)
+conneted: 79
+conneted: 80
+sent(40000): total=280, rate=14(msg/sec)
+conneted: 81
+conneted: 82
+sent(41000): total=296, rate=16(msg/sec)
+conneted: 83
+conneted: 84
+sent(42000): total=312, rate=16(msg/sec)
+conneted: 85
+conneted: 86
+sent(43000): total=328, rate=16(msg/sec)
+conneted: 87
+conneted: 88
+sent(44000): total=344, rate=16(msg/sec)
+conneted: 89
+conneted: 90
+sent(45000): total=360, rate=16(msg/sec)
+conneted: 91
+conneted: 92
+sent(46000): total=378, rate=18(msg/sec)
+conneted: 93
+conneted: 94
+sent(47000): total=396, rate=18(msg/sec)
+conneted: 95
+conneted: 96
+sent(48000): total=414, rate=18(msg/sec)
+conneted: 97
+conneted: 98
+sent(49000): total=432, rate=18(msg/sec)
+conneted: 99
+conneted: 100
+sent(50000): total=450, rate=18(msg/sec)
+conneted: 101
+conneted: 102
+sent(51000): total=470, rate=20(msg/sec)
+conneted: 103
+conneted: 104
+sent(52000): total=490, rate=20(msg/sec)
+conneted: 105
+conneted: 106
+sent(53000): total=510, rate=20(msg/sec)
+conneted: 107
+conneted: 108
+sent(54000): total=530, rate=20(msg/sec)
+conneted: 109
+conneted: 110
+sent(55000): total=550, rate=20(msg/sec)
+conneted: 111
+conneted: 112
+sent(56000): total=572, rate=22(msg/sec)
+conneted: 113
+conneted: 114
+sent(57000): total=594, rate=22(msg/sec)
+conneted: 115
+conneted: 116
+sent(58000): total=616, rate=22(msg/sec)
+conneted: 117
+conneted: 118
+sent(59000): total=638, rate=22(msg/sec)
+conneted: 119
+conneted: 120
+sent(60000): total=660, rate=22(msg/sec)
+conneted: 121
+conneted: 122
+sent(61000): total=684, rate=24(msg/sec)
+conneted: 123
+conneted: 124
+sent(62000): total=708, rate=24(msg/sec)
+conneted: 125
+conneted: 126
+sent(63000): total=732, rate=24(msg/sec)
+conneted: 127
+conneted: 128
+sent(64000): total=756, rate=24(msg/sec)
+conneted: 129
+conneted: 130
+sent(65000): total=780, rate=24(msg/sec)
+conneted: 131
+conneted: 132
+sent(66000): total=806, rate=26(msg/sec)
+conneted: 133
+conneted: 134
+sent(67000): total=832, rate=26(msg/sec)
+conneted: 135
+conneted: 136
+sent(68000): total=858, rate=26(msg/sec)
+conneted: 137
+conneted: 138
+sent(69000): total=884, rate=26(msg/sec)
+conneted: 139
+conneted: 140
+sent(70000): total=910, rate=26(msg/sec)
+conneted: 141
+conneted: 142
+sent(71000): total=938, rate=28(msg/sec)
+conneted: 143
+conneted: 144
+sent(72000): total=966, rate=28(msg/sec)
+conneted: 145
+conneted: 146
+sent(73000): total=994, rate=28(msg/sec)
+conneted: 147
+conneted: 148
+sent(74000): total=1022, rate=28(msg/sec)
+conneted: 149
+conneted: 150
+sent(75000): total=1050, rate=28(msg/sec)
+conneted: 151
+conneted: 152
+sent(76000): total=1080, rate=30(msg/sec)
+conneted: 153
+conneted: 154
+sent(77000): total=1110, rate=30(msg/sec)
+conneted: 155
+conneted: 156
+sent(78000): total=1140, rate=30(msg/sec)
+conneted: 157
+conneted: 158
+sent(79000): total=1170, rate=30(msg/sec)
+conneted: 159
+conneted: 160
+sent(80000): total=1200, rate=30(msg/sec)
+conneted: 161
+conneted: 162
+sent(81000): total=1232, rate=32(msg/sec)
+conneted: 163
+conneted: 164
+sent(82000): total=1264, rate=32(msg/sec)
+conneted: 165
+conneted: 166
+sent(83000): total=1296, rate=32(msg/sec)
+conneted: 167
+conneted: 168
+sent(84000): total=1328, rate=32(msg/sec)
+conneted: 169
+conneted: 170
+sent(85000): total=1360, rate=32(msg/sec)
+conneted: 171
+conneted: 172
+sent(86000): total=1394, rate=34(msg/sec)
+conneted: 173
+conneted: 174
+sent(87000): total=1428, rate=34(msg/sec)
+conneted: 175
+conneted: 176
+sent(88000): total=1462, rate=34(msg/sec)
+conneted: 177
+conneted: 178
+sent(89000): total=1496, rate=34(msg/sec)
+conneted: 179
+conneted: 180
+sent(90000): total=1530, rate=34(msg/sec)
+conneted: 181
+conneted: 182
+sent(91000): total=1566, rate=36(msg/sec)
+conneted: 183
+conneted: 184
+sent(92000): total=1602, rate=36(msg/sec)
+conneted: 185
+conneted: 186
+sent(93000): total=1638, rate=36(msg/sec)
+conneted: 187
+conneted: 188
+sent(94000): total=1674, rate=36(msg/sec)
+conneted: 189
+conneted: 190
+sent(95000): total=1710, rate=36(msg/sec)
+conneted: 191
+conneted: 192
+sent(96000): total=1748, rate=38(msg/sec)
+conneted: 193
+conneted: 194
+sent(97000): total=1786, rate=38(msg/sec)
+conneted: 195
+conneted: 196
+sent(98000): total=1824, rate=38(msg/sec)
+conneted: 197
+conneted: 198
+sent(99000): total=1862, rate=38(msg/sec)
+conneted: 199
+conneted: 200
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+15:23:34.837 [info] Application lager started on node nonode@nohost
+15:23:34.838 [info] Application emqttc started on node nonode@nohost
+15:23:34.838 [info] Application emqtt_benchmark started on node nonode@nohost
+sent(100000): total=1900, rate=38(msg/sec)
+conneted: 1
+conneted: 2
+conneted: 3
+sent(101000): total=1940, rate=40(msg/sec)
+conneted: 4
+conneted: 5
+sent(102000): total=1980, rate=40(msg/sec)
+conneted: 6
+conneted: 7
+sent(103000): total=2020, rate=40(msg/sec)
+conneted: 8
+conneted: 9
+sent(104000): total=2060, rate=40(msg/sec)
+conneted: 10
+sent(105000): total=2100, rate=40(msg/sec)
+conneted: 11
+conneted: 12
+sent(6001): total=2, rate=2(msg/sec)
+sent(106000): total=2140, rate=40(msg/sec)
+conneted: 13
+conneted: 14
+sent(7001): total=4, rate=2(msg/sec)
+sent(107000): total=2180, rate=40(msg/sec)
+conneted: 15
+conneted: 16
+sent(8001): total=6, rate=2(msg/sec)
+sent(108000): total=2220, rate=40(msg/sec)
+conneted: 17
+conneted: 18
+sent(9001): total=8, rate=2(msg/sec)
+sent(109000): total=2260, rate=40(msg/sec)
+conneted: 19
+conneted: 20
+sent(10001): total=10, rate=2(msg/sec)
+sent(110000): total=2300, rate=40(msg/sec)
+conneted: 21
+conneted: 22
+sent(11001): total=14, rate=4(msg/sec)
+sent(111000): total=2340, rate=40(msg/sec)
+conneted: 23
+conneted: 24
+sent(12001): total=18, rate=4(msg/sec)
+sent(112000): total=2380, rate=40(msg/sec)
+conneted: 25
+conneted: 26
+sent(13001): total=22, rate=4(msg/sec)
+sent(113000): total=2420, rate=40(msg/sec)
+conneted: 27
+conneted: 28
+sent(14001): total=26, rate=4(msg/sec)
+sent(114000): total=2460, rate=40(msg/sec)
+conneted: 29
+conneted: 30
+sent(15001): total=30, rate=4(msg/sec)
+sent(115000): total=2500, rate=40(msg/sec)
+conneted: 31
+conneted: 32
+sent(16001): total=36, rate=6(msg/sec)
+sent(116000): total=2540, rate=40(msg/sec)
+conneted: 33
+conneted: 34
+sent(17001): total=42, rate=6(msg/sec)
+sent(117000): total=2580, rate=40(msg/sec)
+conneted: 35
+conneted: 36
+sent(18001): total=48, rate=6(msg/sec)
+sent(118000): total=2620, rate=40(msg/sec)
+conneted: 37
+conneted: 38
+sent(19001): total=54, rate=6(msg/sec)
+sent(119000): total=2660, rate=40(msg/sec)
+conneted: 39
+conneted: 40
+sent(20001): total=60, rate=6(msg/sec)
+sent(120001): total=2700, rate=40(msg/sec)
+conneted: 41
+conneted: 42
+sent(21001): total=68, rate=8(msg/sec)
+sent(121000): total=2740, rate=40(msg/sec)
+conneted: 43
+conneted: 44
+sent(22001): total=76, rate=8(msg/sec)
+sent(122000): total=2780, rate=40(msg/sec)
+conneted: 45
+conneted: 46
+sent(23001): total=84, rate=8(msg/sec)
+sent(123000): total=2820, rate=40(msg/sec)
+conneted: 47
+conneted: 48
+sent(24001): total=92, rate=8(msg/sec)
+sent(124000): total=2860, rate=40(msg/sec)
+conneted: 49
+conneted: 50
+sent(25001): total=100, rate=8(msg/sec)
+sent(125000): total=2900, rate=40(msg/sec)
+conneted: 51
+conneted: 52
+sent(26001): total=110, rate=10(msg/sec)
+sent(126000): total=2940, rate=40(msg/sec)
+conneted: 53
+conneted: 54
+sent(27001): total=120, rate=10(msg/sec)
+sent(127000): total=2980, rate=40(msg/sec)
+conneted: 55
+conneted: 56
+sent(28001): total=130, rate=10(msg/sec)
+sent(128000): total=3020, rate=40(msg/sec)
+conneted: 57
+conneted: 58
+sent(29001): total=140, rate=10(msg/sec)
+sent(129000): total=3060, rate=40(msg/sec)
+conneted: 59
+conneted: 60
+sent(30001): total=150, rate=10(msg/sec)
+sent(130000): total=3100, rate=40(msg/sec)
+conneted: 61
+conneted: 62
+sent(31001): total=162, rate=12(msg/sec)
+sent(131000): total=3140, rate=40(msg/sec)
+conneted: 63
+conneted: 64
+sent(32001): total=174, rate=12(msg/sec)
+sent(132000): total=3180, rate=40(msg/sec)
+conneted: 65
+conneted: 66
+sent(33001): total=186, rate=12(msg/sec)
+sent(133000): total=3220, rate=40(msg/sec)
+conneted: 67
+conneted: 68
+sent(34001): total=198, rate=12(msg/sec)
+sent(134000): total=3260, rate=40(msg/sec)
+conneted: 69
+conneted: 70
+sent(35001): total=210, rate=12(msg/sec)
+sent(135000): total=3300, rate=40(msg/sec)
+conneted: 71
+conneted: 72
+sent(36001): total=224, rate=14(msg/sec)
+sent(136000): total=3340, rate=40(msg/sec)
+conneted: 73
+conneted: 74
+sent(37001): total=238, rate=14(msg/sec)
+sent(137000): total=3380, rate=40(msg/sec)
+conneted: 75
+conneted: 76
+sent(38001): total=252, rate=14(msg/sec)
+sent(138000): total=3420, rate=40(msg/sec)
+conneted: 77
+conneted: 78
+sent(39001): total=266, rate=14(msg/sec)
+sent(139000): total=3460, rate=40(msg/sec)
+conneted: 79
+conneted: 80
+sent(40001): total=280, rate=14(msg/sec)
+sent(140000): total=3500, rate=40(msg/sec)
+conneted: 81
+conneted: 82
+sent(41001): total=296, rate=16(msg/sec)
+sent(141000): total=3540, rate=40(msg/sec)
+conneted: 83
+conneted: 84
+sent(42001): total=312, rate=16(msg/sec)
+sent(142000): total=3580, rate=40(msg/sec)
+conneted: 85
+conneted: 86
+sent(43001): total=328, rate=16(msg/sec)
+sent(143000): total=3620, rate=40(msg/sec)
+conneted: 87
+conneted: 88
+sent(44001): total=344, rate=16(msg/sec)
+sent(144000): total=3660, rate=40(msg/sec)
+conneted: 89
+conneted: 90
+sent(45001): total=360, rate=16(msg/sec)
+sent(145000): total=3700, rate=40(msg/sec)
+conneted: 91
+conneted: 92
+sent(46001): total=378, rate=18(msg/sec)
+sent(146000): total=3740, rate=40(msg/sec)
+conneted: 93
+conneted: 94
+sent(47001): total=396, rate=18(msg/sec)
+sent(147000): total=3780, rate=40(msg/sec)
+conneted: 95
+conneted: 96
+sent(48001): total=414, rate=18(msg/sec)
+sent(148000): total=3820, rate=40(msg/sec)
+conneted: 97
+conneted: 98
+sent(49001): total=432, rate=18(msg/sec)
+sent(149000): total=3860, rate=40(msg/sec)
+conneted: 99
+conneted: 100
+sent(50001): total=450, rate=18(msg/sec)
+sent(150001): total=3900, rate=40(msg/sec)
+conneted: 101
+conneted: 102
+sent(51001): total=470, rate=20(msg/sec)
+sent(151000): total=3940, rate=40(msg/sec)
+conneted: 103
+conneted: 104
+sent(52001): total=490, rate=20(msg/sec)
+sent(152000): total=3980, rate=40(msg/sec)
+conneted: 105
+conneted: 106
+sent(53001): total=510, rate=20(msg/sec)
+sent(153000): total=4020, rate=40(msg/sec)
+conneted: 107
+conneted: 108
+sent(54001): total=530, rate=20(msg/sec)
+sent(154000): total=4060, rate=40(msg/sec)
+conneted: 109
+conneted: 110
+sent(55001): total=550, rate=20(msg/sec)
+sent(155000): total=4100, rate=40(msg/sec)
+conneted: 111
+conneted: 112
+sent(56001): total=572, rate=22(msg/sec)
+sent(156000): total=4140, rate=40(msg/sec)
+conneted: 113
+conneted: 114
+sent(57001): total=594, rate=22(msg/sec)
+sent(157000): total=4180, rate=40(msg/sec)
+conneted: 115
+conneted: 116
+sent(58001): total=616, rate=22(msg/sec)
+sent(158000): total=4220, rate=40(msg/sec)
+conneted: 117
+conneted: 118
+sent(59001): total=638, rate=22(msg/sec)
+sent(159000): total=4260, rate=40(msg/sec)
+conneted: 119
+conneted: 120
+sent(60001): total=660, rate=22(msg/sec)
+sent(160000): total=4300, rate=40(msg/sec)
+conneted: 121
+conneted: 122
+sent(61001): total=684, rate=24(msg/sec)
+sent(161000): total=4340, rate=40(msg/sec)
+conneted: 123
+conneted: 124
+sent(62001): total=708, rate=24(msg/sec)
+sent(162000): total=4380, rate=40(msg/sec)
+conneted: 125
+conneted: 126
+sent(63001): total=732, rate=24(msg/sec)
+sent(163000): total=4420, rate=40(msg/sec)
+conneted: 127
+conneted: 128
+sent(64001): total=756, rate=24(msg/sec)
+sent(164000): total=4460, rate=40(msg/sec)
+conneted: 129
+conneted: 130
+sent(65001): total=780, rate=24(msg/sec)
+sent(165000): total=4500, rate=40(msg/sec)
+conneted: 131
+conneted: 132
+sent(66001): total=806, rate=26(msg/sec)
+sent(166000): total=4540, rate=40(msg/sec)
+conneted: 133
+conneted: 134
+sent(67001): total=832, rate=26(msg/sec)
+sent(167000): total=4580, rate=40(msg/sec)
+conneted: 135
+conneted: 136
+sent(68001): total=858, rate=26(msg/sec)
+sent(168000): total=4620, rate=40(msg/sec)
+conneted: 137
+conneted: 138
+sent(69001): total=884, rate=26(msg/sec)
+sent(169000): total=4660, rate=40(msg/sec)
+conneted: 139
+conneted: 140
+sent(70001): total=910, rate=26(msg/sec)
+sent(170000): total=4700, rate=40(msg/sec)
+conneted: 141
+conneted: 142
+sent(71001): total=938, rate=28(msg/sec)
+sent(171000): total=4740, rate=40(msg/sec)
+conneted: 143
+conneted: 144
+sent(72001): total=966, rate=28(msg/sec)
+sent(172000): total=4780, rate=40(msg/sec)
+conneted: 145
+conneted: 146
+sent(73001): total=994, rate=28(msg/sec)
+sent(173000): total=4820, rate=40(msg/sec)
+conneted: 147
+conneted: 148
+sent(74001): total=1022, rate=28(msg/sec)
+sent(174000): total=4860, rate=40(msg/sec)
+conneted: 149
+conneted: 150
+sent(75001): total=1050, rate=28(msg/sec)
+sent(175000): total=4900, rate=40(msg/sec)
+conneted: 151
+conneted: 152
+sent(76001): total=1080, rate=30(msg/sec)
+sent(176000): total=4940, rate=40(msg/sec)
+conneted: 153
+conneted: 154
+sent(77001): total=1110, rate=30(msg/sec)
+sent(177000): total=4980, rate=40(msg/sec)
+conneted: 155
+conneted: 156
+sent(78001): total=1140, rate=30(msg/sec)
+sent(178000): total=5020, rate=40(msg/sec)
+conneted: 157
+conneted: 158
+sent(79001): total=1170, rate=30(msg/sec)
+sent(179000): total=5060, rate=40(msg/sec)
+conneted: 159
+conneted: 160
+sent(80001): total=1200, rate=30(msg/sec)
+sent(180000): total=5100, rate=40(msg/sec)
+conneted: 161
+conneted: 162
+sent(81001): total=1232, rate=32(msg/sec)
+sent(181000): total=5140, rate=40(msg/sec)
+conneted: 163
+conneted: 164
+sent(82001): total=1264, rate=32(msg/sec)
+sent(182000): total=5180, rate=40(msg/sec)
+conneted: 165
+conneted: 166
+sent(83001): total=1296, rate=32(msg/sec)
+sent(183000): total=5220, rate=40(msg/sec)
+conneted: 167
+conneted: 168
+sent(84001): total=1328, rate=32(msg/sec)
+sent(184000): total=5260, rate=40(msg/sec)
+conneted: 169
+conneted: 170
+sent(85001): total=1360, rate=32(msg/sec)
+sent(185001): total=5300, rate=40(msg/sec)
+conneted: 171
+conneted: 172
+sent(86001): total=1394, rate=34(msg/sec)
+sent(186000): total=5340, rate=40(msg/sec)
+conneted: 173
+conneted: 174
+sent(87001): total=1428, rate=34(msg/sec)
+sent(187000): total=5380, rate=40(msg/sec)
+conneted: 175
+conneted: 176
+sent(88001): total=1462, rate=34(msg/sec)
+sent(188000): total=5420, rate=40(msg/sec)
+conneted: 177
+conneted: 178
+sent(89001): total=1496, rate=34(msg/sec)
+sent(189000): total=5460, rate=40(msg/sec)
+conneted: 179
+conneted: 180
+sent(90001): total=1530, rate=34(msg/sec)
+sent(190000): total=5500, rate=40(msg/sec)
+conneted: 181
+conneted: 182
+sent(91001): total=1566, rate=36(msg/sec)
+sent(191000): total=5540, rate=40(msg/sec)
+conneted: 183
+conneted: 184
+sent(92001): total=1602, rate=36(msg/sec)
+sent(192000): total=5580, rate=40(msg/sec)
+conneted: 185
+conneted: 186
+sent(93001): total=1638, rate=36(msg/sec)
+sent(193000): total=5620, rate=40(msg/sec)
+conneted: 187
+conneted: 188
+sent(94001): total=1674, rate=36(msg/sec)
+sent(194000): total=5660, rate=40(msg/sec)
+conneted: 189
+conneted: 190
+sent(95001): total=1710, rate=36(msg/sec)
+sent(195000): total=5700, rate=40(msg/sec)
+conneted: 191
+conneted: 192
+sent(96001): total=1748, rate=38(msg/sec)
+sent(196000): total=5740, rate=40(msg/sec)
+conneted: 193
+conneted: 194
+sent(97001): total=1786, rate=38(msg/sec)
+sent(197000): total=5780, rate=40(msg/sec)
+conneted: 195
+conneted: 196
+sent(98001): total=1824, rate=38(msg/sec)
+sent(198000): total=5820, rate=40(msg/sec)
+conneted: 197
+conneted: 198
+sent(99001): total=1862, rate=38(msg/sec)
+sent(199000): total=5860, rate=40(msg/sec)
+conneted: 199
+conneted: 200
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+15:25:14.834 [info] Application lager started on node nonode@nohost
+15:25:14.835 [info] Application emqttc started on node nonode@nohost
+15:25:14.835 [info] Application emqtt_benchmark started on node nonode@nohost
+sent(100001): total=1900, rate=38(msg/sec)
+sent(200000): total=5900, rate=40(msg/sec)
+conneted: 1
+conneted: 2
+conneted: 3
+sent(101001): total=1940, rate=40(msg/sec)
+sent(201000): total=5940, rate=40(msg/sec)
+conneted: 4
+conneted: 5
+sent(102001): total=1980, rate=40(msg/sec)
+sent(202000): total=5980, rate=40(msg/sec)
+conneted: 6
+sent(103001): total=2020, rate=40(msg/sec)
+conneted: 7
+sent(203000): total=6020, rate=40(msg/sec)
+conneted: 8
+sent(104001): total=2060, rate=40(msg/sec)
+conneted: 9
+sent(204000): total=6060, rate=40(msg/sec)
+conneted: 10
+sent(105001): total=2100, rate=40(msg/sec)
+conneted: 11
+sent(205000): total=6100, rate=40(msg/sec)
+conneted: 12
+sent(6000): total=2, rate=2(msg/sec)
+sent(106001): total=2140, rate=40(msg/sec)
+sent(206000): total=6140, rate=40(msg/sec)
+conneted: 13
+conneted: 14
+sent(7000): total=4, rate=2(msg/sec)
+sent(107001): total=2180, rate=40(msg/sec)
+sent(207000): total=6180, rate=40(msg/sec)
+conneted: 15
+conneted: 16
+sent(8000): total=6, rate=2(msg/sec)
+sent(108001): total=2220, rate=40(msg/sec)
+sent(208000): total=6220, rate=40(msg/sec)
+conneted: 17
+conneted: 18
+sent(9000): total=8, rate=2(msg/sec)
+sent(109001): total=2260, rate=40(msg/sec)
+sent(209000): total=6260, rate=40(msg/sec)
+conneted: 19
+conneted: 20
+sent(10000): total=10, rate=2(msg/sec)
+sent(110001): total=2300, rate=40(msg/sec)
+sent(210000): total=6300, rate=40(msg/sec)
+conneted: 21
+conneted: 22
+sent(11000): total=14, rate=4(msg/sec)
+sent(111001): total=2340, rate=40(msg/sec)
+sent(211000): total=6340, rate=40(msg/sec)
+conneted: 23
+conneted: 24
+sent(12000): total=18, rate=4(msg/sec)
+sent(112001): total=2380, rate=40(msg/sec)
+sent(212000): total=6380, rate=40(msg/sec)
+conneted: 25
+conneted: 26
+sent(13000): total=22, rate=4(msg/sec)
+sent(113001): total=2420, rate=40(msg/sec)
+sent(213000): total=6420, rate=40(msg/sec)
+conneted: 27
+conneted: 28
+sent(14000): total=26, rate=4(msg/sec)
+sent(114001): total=2460, rate=40(msg/sec)
+sent(214000): total=6460, rate=40(msg/sec)
+conneted: 29
+conneted: 30
+sent(15000): total=30, rate=4(msg/sec)
+sent(115001): total=2500, rate=40(msg/sec)
+sent(215000): total=6500, rate=40(msg/sec)
+conneted: 31
+conneted: 32
+sent(16000): total=36, rate=6(msg/sec)
+sent(116001): total=2540, rate=40(msg/sec)
+sent(216000): total=6540, rate=40(msg/sec)
+conneted: 33
+conneted: 34
+sent(17000): total=42, rate=6(msg/sec)
+sent(117001): total=2580, rate=40(msg/sec)
+sent(217000): total=6580, rate=40(msg/sec)
+conneted: 35
+conneted: 36
+sent(18000): total=48, rate=6(msg/sec)
+sent(118001): total=2620, rate=40(msg/sec)
+sent(218000): total=6620, rate=40(msg/sec)
+conneted: 37
+conneted: 38
+sent(19000): total=54, rate=6(msg/sec)
+sent(119001): total=2660, rate=40(msg/sec)
+sent(219000): total=6660, rate=40(msg/sec)
+conneted: 39
+conneted: 40
+sent(20000): total=60, rate=6(msg/sec)
+sent(120001): total=2700, rate=40(msg/sec)
+sent(220000): total=6700, rate=40(msg/sec)
+conneted: 41
+conneted: 42
+sent(21000): total=68, rate=8(msg/sec)
+sent(121001): total=2740, rate=40(msg/sec)
+sent(221000): total=6740, rate=40(msg/sec)
+conneted: 43
+conneted: 44
+sent(22000): total=76, rate=8(msg/sec)
+sent(122001): total=2780, rate=40(msg/sec)
+sent(222000): total=6780, rate=40(msg/sec)
+conneted: 45
+conneted: 46
+sent(23000): total=84, rate=8(msg/sec)
+sent(123001): total=2820, rate=40(msg/sec)
+sent(223000): total=6820, rate=40(msg/sec)
+conneted: 47
+conneted: 48
+sent(24000): total=92, rate=8(msg/sec)
+sent(124001): total=2860, rate=40(msg/sec)
+sent(224000): total=6860, rate=40(msg/sec)
+conneted: 49
+conneted: 50
+sent(25000): total=100, rate=8(msg/sec)
+sent(125001): total=2900, rate=40(msg/sec)
+sent(225000): total=6900, rate=40(msg/sec)
+conneted: 51
+conneted: 52
+sent(26000): total=110, rate=10(msg/sec)
+sent(126001): total=2940, rate=40(msg/sec)
+sent(226000): total=6940, rate=40(msg/sec)
+conneted: 53
+conneted: 54
+sent(27000): total=120, rate=10(msg/sec)
+sent(127001): total=2980, rate=40(msg/sec)
+sent(227000): total=6980, rate=40(msg/sec)
+conneted: 55
+conneted: 56
+sent(28000): total=130, rate=10(msg/sec)
+sent(128001): total=3020, rate=40(msg/sec)
+sent(228000): total=7020, rate=40(msg/sec)
+conneted: 57
+conneted: 58
+sent(29000): total=140, rate=10(msg/sec)
+sent(129001): total=3060, rate=40(msg/sec)
+sent(229000): total=7060, rate=40(msg/sec)
+conneted: 59
+conneted: 60
+sent(30000): total=150, rate=10(msg/sec)
+sent(130001): total=3100, rate=40(msg/sec)
+sent(230000): total=7100, rate=40(msg/sec)
+conneted: 61
+conneted: 62
+sent(31000): total=162, rate=12(msg/sec)
+sent(131001): total=3140, rate=40(msg/sec)
+sent(231000): total=7140, rate=40(msg/sec)
+conneted: 63
+conneted: 64
+sent(32000): total=174, rate=12(msg/sec)
+sent(132001): total=3180, rate=40(msg/sec)
+sent(232000): total=7180, rate=40(msg/sec)
+conneted: 65
+conneted: 66
+sent(33000): total=186, rate=12(msg/sec)
+sent(133001): total=3220, rate=40(msg/sec)
+sent(233000): total=7220, rate=40(msg/sec)
+conneted: 67
+conneted: 68
+sent(34000): total=198, rate=12(msg/sec)
+sent(134001): total=3260, rate=40(msg/sec)
+sent(234000): total=7260, rate=40(msg/sec)
+conneted: 69
+conneted: 70
+sent(35000): total=210, rate=12(msg/sec)
+sent(135001): total=3300, rate=40(msg/sec)
+sent(235000): total=7300, rate=40(msg/sec)
+conneted: 71
+conneted: 72
+sent(36000): total=224, rate=14(msg/sec)
+sent(136001): total=3340, rate=40(msg/sec)
+sent(236001): total=7340, rate=40(msg/sec)
+conneted: 73
+conneted: 74
+sent(37000): total=238, rate=14(msg/sec)
+sent(137001): total=3380, rate=40(msg/sec)
+sent(237000): total=7380, rate=40(msg/sec)
+conneted: 75
+conneted: 76
+sent(38000): total=252, rate=14(msg/sec)
+sent(138001): total=3420, rate=40(msg/sec)
+sent(238000): total=7420, rate=40(msg/sec)
+conneted: 77
+conneted: 78
+sent(39000): total=266, rate=14(msg/sec)
+sent(139001): total=3460, rate=40(msg/sec)
+sent(239000): total=7460, rate=40(msg/sec)
+conneted: 79
+conneted: 80
+sent(40000): total=280, rate=14(msg/sec)
+sent(140001): total=3500, rate=40(msg/sec)
+sent(240000): total=7500, rate=40(msg/sec)
+conneted: 81
+conneted: 82
+sent(41000): total=296, rate=16(msg/sec)
+sent(141001): total=3540, rate=40(msg/sec)
+sent(241000): total=7540, rate=40(msg/sec)
+conneted: 83
+conneted: 84
+sent(42000): total=312, rate=16(msg/sec)
+sent(142001): total=3580, rate=40(msg/sec)
+sent(242000): total=7580, rate=40(msg/sec)
+conneted: 85
+conneted: 86
+sent(43000): total=328, rate=16(msg/sec)
+sent(143001): total=3620, rate=40(msg/sec)
+sent(243000): total=7620, rate=40(msg/sec)
+conneted: 87
+conneted: 88
+sent(44000): total=344, rate=16(msg/sec)
+sent(144001): total=3660, rate=40(msg/sec)
+sent(244000): total=7660, rate=40(msg/sec)
+conneted: 89
+conneted: 90
+sent(45000): total=360, rate=16(msg/sec)
+sent(145001): total=3700, rate=40(msg/sec)
+sent(245000): total=7700, rate=40(msg/sec)
+conneted: 91
+conneted: 92
+sent(46000): total=378, rate=18(msg/sec)
+sent(146001): total=3740, rate=40(msg/sec)
+sent(246000): total=7740, rate=40(msg/sec)
+conneted: 93
+conneted: 94
+sent(47000): total=396, rate=18(msg/sec)
+sent(147001): total=3780, rate=40(msg/sec)
+sent(247000): total=7780, rate=40(msg/sec)
+conneted: 95
+conneted: 96
+sent(48000): total=414, rate=18(msg/sec)
+sent(148001): total=3820, rate=40(msg/sec)
+sent(248000): total=7820, rate=40(msg/sec)
+conneted: 97
+conneted: 98
+sent(49000): total=432, rate=18(msg/sec)
+sent(149001): total=3860, rate=40(msg/sec)
+sent(249000): total=7860, rate=40(msg/sec)
+conneted: 99
+conneted: 100
+sent(50000): total=450, rate=18(msg/sec)
+sent(150001): total=3900, rate=40(msg/sec)
+sent(250000): total=7900, rate=40(msg/sec)
+conneted: 101
+conneted: 102
+sent(51000): total=470, rate=20(msg/sec)
+sent(151001): total=3940, rate=40(msg/sec)
+sent(251000): total=7940, rate=40(msg/sec)
+conneted: 103
+conneted: 104
+sent(52000): total=490, rate=20(msg/sec)
+sent(152001): total=3980, rate=40(msg/sec)
+sent(252000): total=7980, rate=40(msg/sec)
+conneted: 105
+conneted: 106
+sent(53000): total=510, rate=20(msg/sec)
+sent(153001): total=4020, rate=40(msg/sec)
+sent(253000): total=8020, rate=40(msg/sec)
+conneted: 107
+conneted: 108
+sent(54000): total=530, rate=20(msg/sec)
+sent(154001): total=4060, rate=40(msg/sec)
+sent(254000): total=8060, rate=40(msg/sec)
+conneted: 109
+conneted: 110
+sent(55000): total=550, rate=20(msg/sec)
+sent(155001): total=4100, rate=40(msg/sec)
+sent(255000): total=8100, rate=40(msg/sec)
+conneted: 111
+conneted: 112
+sent(56000): total=572, rate=22(msg/sec)
+sent(156001): total=4140, rate=40(msg/sec)
+sent(256000): total=8140, rate=40(msg/sec)
+conneted: 113
+conneted: 114
+sent(57000): total=594, rate=22(msg/sec)
+sent(157001): total=4180, rate=40(msg/sec)
+sent(257000): total=8180, rate=40(msg/sec)
+conneted: 115
+conneted: 116
+sent(58000): total=616, rate=22(msg/sec)
+sent(158001): total=4220, rate=40(msg/sec)
+sent(258000): total=8220, rate=40(msg/sec)
+conneted: 117
+conneted: 118
+sent(59000): total=638, rate=22(msg/sec)
+sent(159001): total=4260, rate=40(msg/sec)
+sent(259000): total=8260, rate=40(msg/sec)
+conneted: 119
+conneted: 120
+sent(60000): total=660, rate=22(msg/sec)
+sent(160001): total=4300, rate=40(msg/sec)
+sent(260000): total=8300, rate=40(msg/sec)
+conneted: 121
+conneted: 122
+sent(61000): total=684, rate=24(msg/sec)
+sent(161001): total=4340, rate=40(msg/sec)
+sent(261000): total=8340, rate=40(msg/sec)
+conneted: 123
+conneted: 124
+sent(62000): total=708, rate=24(msg/sec)
+sent(162001): total=4380, rate=40(msg/sec)
+sent(262000): total=8380, rate=40(msg/sec)
+conneted: 125
+conneted: 126
+sent(63000): total=732, rate=24(msg/sec)
+sent(163001): total=4420, rate=40(msg/sec)
+sent(263000): total=8420, rate=40(msg/sec)
+conneted: 127
+conneted: 128
+sent(64000): total=756, rate=24(msg/sec)
+sent(164001): total=4460, rate=40(msg/sec)
+sent(264000): total=8460, rate=40(msg/sec)
+conneted: 129
+conneted: 130
+sent(65000): total=780, rate=24(msg/sec)
+sent(165001): total=4500, rate=40(msg/sec)
+sent(265000): total=8500, rate=40(msg/sec)
+conneted: 131
+conneted: 132
+sent(66000): total=806, rate=26(msg/sec)
+sent(166001): total=4540, rate=40(msg/sec)
+sent(266000): total=8540, rate=40(msg/sec)
+conneted: 133
+conneted: 134
+sent(67000): total=832, rate=26(msg/sec)
+sent(167001): total=4580, rate=40(msg/sec)
+sent(267000): total=8580, rate=40(msg/sec)
+conneted: 135
+conneted: 136
+sent(68000): total=858, rate=26(msg/sec)
+sent(168001): total=4620, rate=40(msg/sec)
+sent(268000): total=8620, rate=40(msg/sec)
+conneted: 137
+conneted: 138
+sent(69000): total=884, rate=26(msg/sec)
+sent(169001): total=4660, rate=40(msg/sec)
+sent(269000): total=8660, rate=40(msg/sec)
+conneted: 139
+conneted: 140
+sent(70000): total=910, rate=26(msg/sec)
+sent(170001): total=4700, rate=40(msg/sec)
+sent(270000): total=8700, rate=40(msg/sec)
+conneted: 141
+conneted: 142
+sent(71000): total=938, rate=28(msg/sec)
+sent(171001): total=4740, rate=40(msg/sec)
+sent(271000): total=8740, rate=40(msg/sec)
+conneted: 143
+conneted: 144
+sent(72000): total=966, rate=28(msg/sec)
+sent(172001): total=4780, rate=40(msg/sec)
+sent(272000): total=8780, rate=40(msg/sec)
+conneted: 145
+conneted: 146
+sent(73000): total=994, rate=28(msg/sec)
+sent(173001): total=4820, rate=40(msg/sec)
+sent(273000): total=8820, rate=40(msg/sec)
+conneted: 147
+conneted: 148
+sent(74000): total=1022, rate=28(msg/sec)
+sent(174001): total=4860, rate=40(msg/sec)
+sent(274000): total=8860, rate=40(msg/sec)
+conneted: 149
+conneted: 150
+sent(75000): total=1050, rate=28(msg/sec)
+sent(175001): total=4900, rate=40(msg/sec)
+sent(275000): total=8900, rate=40(msg/sec)
+conneted: 151
+conneted: 152
+sent(76000): total=1080, rate=30(msg/sec)
+sent(176001): total=4940, rate=40(msg/sec)
+sent(276000): total=8940, rate=40(msg/sec)
+conneted: 153
+conneted: 154
+sent(77000): total=1110, rate=30(msg/sec)
+sent(177001): total=4980, rate=40(msg/sec)
+sent(277000): total=8980, rate=40(msg/sec)
+conneted: 155
+conneted: 156
+sent(78000): total=1140, rate=30(msg/sec)
+sent(178001): total=5020, rate=40(msg/sec)
+sent(278000): total=9020, rate=40(msg/sec)
+conneted: 157
+conneted: 158
+sent(79000): total=1170, rate=30(msg/sec)
+sent(179001): total=5060, rate=40(msg/sec)
+sent(279000): total=9060, rate=40(msg/sec)
+conneted: 159
+conneted: 160
+sent(80000): total=1200, rate=30(msg/sec)
+sent(180001): total=5100, rate=40(msg/sec)
+sent(280000): total=9100, rate=40(msg/sec)
+conneted: 161
+conneted: 162
+sent(81000): total=1232, rate=32(msg/sec)
+sent(181001): total=5140, rate=40(msg/sec)
+sent(281000): total=9140, rate=40(msg/sec)
+conneted: 163
+conneted: 164
+sent(82000): total=1264, rate=32(msg/sec)
+sent(182001): total=5180, rate=40(msg/sec)
+sent(282000): total=9180, rate=40(msg/sec)
+conneted: 165
+conneted: 166
+sent(83000): total=1296, rate=32(msg/sec)
+sent(183001): total=5220, rate=40(msg/sec)
+sent(283000): total=9220, rate=40(msg/sec)
+conneted: 167
+conneted: 168
+sent(84000): total=1328, rate=32(msg/sec)
+sent(184001): total=5260, rate=40(msg/sec)
+sent(284000): total=9260, rate=40(msg/sec)
+conneted: 169
+conneted: 170
+sent(85000): total=1360, rate=32(msg/sec)
+sent(185001): total=5300, rate=40(msg/sec)
+sent(285000): total=9300, rate=40(msg/sec)
+conneted: 171
+conneted: 172
+sent(86000): total=1394, rate=34(msg/sec)
+sent(186001): total=5340, rate=40(msg/sec)
+sent(286000): total=9340, rate=40(msg/sec)
+conneted: 173
+conneted: 174
+sent(87000): total=1428, rate=34(msg/sec)
+sent(187001): total=5380, rate=40(msg/sec)
+sent(287000): total=9380, rate=40(msg/sec)
+conneted: 175
+conneted: 176
+sent(88000): total=1462, rate=34(msg/sec)
+sent(188001): total=5420, rate=40(msg/sec)
+sent(288000): total=9420, rate=40(msg/sec)
+conneted: 177
+conneted: 178
+sent(89000): total=1496, rate=34(msg/sec)
+sent(189001): total=5460, rate=40(msg/sec)
+sent(289000): total=9460, rate=40(msg/sec)
+conneted: 179
+conneted: 180
+sent(90000): total=1530, rate=34(msg/sec)
+sent(190001): total=5500, rate=40(msg/sec)
+sent(290000): total=9500, rate=40(msg/sec)
+conneted: 181
+conneted: 182
+sent(91000): total=1566, rate=36(msg/sec)
+sent(191001): total=5540, rate=40(msg/sec)
+sent(291000): total=9540, rate=40(msg/sec)
+conneted: 183
+conneted: 184
+sent(92000): total=1602, rate=36(msg/sec)
+sent(192001): total=5580, rate=40(msg/sec)
+sent(292000): total=9580, rate=40(msg/sec)
+conneted: 185
+conneted: 186
+sent(93000): total=1638, rate=36(msg/sec)
+sent(193001): total=5620, rate=40(msg/sec)
+sent(293000): total=9620, rate=40(msg/sec)
+conneted: 187
+conneted: 188
+sent(94000): total=1674, rate=36(msg/sec)
+sent(194001): total=5660, rate=40(msg/sec)
+sent(294000): total=9660, rate=40(msg/sec)
+conneted: 189
+conneted: 190
+sent(95000): total=1710, rate=36(msg/sec)
+sent(195001): total=5700, rate=40(msg/sec)
+sent(295000): total=9700, rate=40(msg/sec)
+conneted: 191
+conneted: 192
+sent(96000): total=1748, rate=38(msg/sec)
+sent(196001): total=5740, rate=40(msg/sec)
+sent(296000): total=9740, rate=40(msg/sec)
+conneted: 193
+conneted: 194
+sent(97000): total=1786, rate=38(msg/sec)
+sent(197001): total=5780, rate=40(msg/sec)
+sent(297000): total=9780, rate=40(msg/sec)
+conneted: 195
+conneted: 196
+sent(98000): total=1824, rate=38(msg/sec)
+sent(198001): total=5820, rate=40(msg/sec)
+sent(298000): total=9820, rate=40(msg/sec)
+conneted: 197
+conneted: 198
+sent(99000): total=1862, rate=38(msg/sec)
+sent(199001): total=5860, rate=40(msg/sec)
+sent(299000): total=9860, rate=40(msg/sec)
+conneted: 199
+conneted: 200
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+sent(100000): total=1900, rate=38(msg/sec)
+15:26:54.837 [info] Application lager started on node nonode@nohost
+15:26:54.838 [info] Application emqttc started on node nonode@nohost
+15:26:54.838 [info] Application emqtt_benchmark started on node nonode@nohost
+sent(200001): total=5900, rate=40(msg/sec)
+sent(300000): total=9900, rate=40(msg/sec)
+conneted: 1
+conneted: 2
+sent(101001): total=1940, rate=40(msg/sec)
+conneted: 3
+sent(201001): total=5940, rate=40(msg/sec)
+sent(301000): total=9940, rate=40(msg/sec)
+conneted: 4
+sent(102001): total=1980, rate=40(msg/sec)
+sent(202001): total=5980, rate=40(msg/sec)
+conneted: 5
+sent(302000): total=9980, rate=40(msg/sec)
+conneted: 6
+sent(103001): total=2020, rate=40(msg/sec)
+sent(203001): total=6020, rate=40(msg/sec)
+conneted: 7
+sent(303000): total=10020, rate=40(msg/sec)
+conneted: 8
+sent(104001): total=2060, rate=40(msg/sec)
+sent(204001): total=6060, rate=40(msg/sec)
+conneted: 9
+sent(304000): total=10060, rate=40(msg/sec)
+conneted: 10
+sent(105001): total=2100, rate=40(msg/sec)
+sent(205001): total=6100, rate=40(msg/sec)
+sent(305000): total=10100, rate=40(msg/sec)
+conneted: 11
+conneted: 12
+sent(106001): total=2140, rate=40(msg/sec)
+sent(6001): total=2, rate=2(msg/sec)
+sent(206001): total=6140, rate=40(msg/sec)
+sent(306000): total=10140, rate=40(msg/sec)
+conneted: 13
+conneted: 14
+sent(107001): total=2180, rate=40(msg/sec)
+sent(7001): total=4, rate=2(msg/sec)
+sent(207001): total=6180, rate=40(msg/sec)
+sent(307000): total=10180, rate=40(msg/sec)
+conneted: 15
+conneted: 16
+sent(108001): total=2220, rate=40(msg/sec)
+sent(8001): total=6, rate=2(msg/sec)
+sent(208001): total=6220, rate=40(msg/sec)
+sent(308000): total=10220, rate=40(msg/sec)
+conneted: 17
+conneted: 18
+sent(109001): total=2260, rate=40(msg/sec)
+sent(9001): total=8, rate=2(msg/sec)
+sent(209001): total=6260, rate=40(msg/sec)
+sent(309000): total=10260, rate=40(msg/sec)
+conneted: 19
+conneted: 20
+sent(110001): total=2300, rate=40(msg/sec)
+sent(10001): total=10, rate=2(msg/sec)
+sent(210001): total=6300, rate=40(msg/sec)
+sent(310000): total=10300, rate=40(msg/sec)
+conneted: 21
+conneted: 22
+sent(111001): total=2340, rate=40(msg/sec)
+sent(11001): total=14, rate=4(msg/sec)
+sent(211001): total=6340, rate=40(msg/sec)
+sent(311000): total=10340, rate=40(msg/sec)
+conneted: 23
+conneted: 24
+sent(112001): total=2380, rate=40(msg/sec)
+sent(12001): total=18, rate=4(msg/sec)
+sent(212001): total=6380, rate=40(msg/sec)
+sent(312000): total=10380, rate=40(msg/sec)
+conneted: 25
+conneted: 26
+sent(113001): total=2420, rate=40(msg/sec)
+sent(13001): total=22, rate=4(msg/sec)
+sent(213001): total=6420, rate=40(msg/sec)
+sent(313000): total=10420, rate=40(msg/sec)
+conneted: 27
+conneted: 28
+sent(114001): total=2460, rate=40(msg/sec)
+sent(14001): total=26, rate=4(msg/sec)
+sent(214001): total=6460, rate=40(msg/sec)
+sent(314000): total=10460, rate=40(msg/sec)
+conneted: 29
+conneted: 30
+sent(115001): total=2500, rate=40(msg/sec)
+sent(15001): total=30, rate=4(msg/sec)
+sent(215001): total=6500, rate=40(msg/sec)
+sent(315000): total=10500, rate=40(msg/sec)
+conneted: 31
+conneted: 32
+sent(116001): total=2540, rate=40(msg/sec)
+sent(16001): total=36, rate=6(msg/sec)
+sent(216001): total=6540, rate=40(msg/sec)
+sent(316000): total=10540, rate=40(msg/sec)
+conneted: 33
+conneted: 34
+sent(117001): total=2580, rate=40(msg/sec)
+sent(17001): total=42, rate=6(msg/sec)
+sent(217001): total=6580, rate=40(msg/sec)
+sent(317000): total=10580, rate=40(msg/sec)
+conneted: 35
+conneted: 36
+sent(118001): total=2620, rate=40(msg/sec)
+sent(18001): total=48, rate=6(msg/sec)
+sent(218001): total=6620, rate=40(msg/sec)
+sent(318000): total=10620, rate=40(msg/sec)
+conneted: 37
+conneted: 38
+sent(119001): total=2660, rate=40(msg/sec)
+sent(19001): total=54, rate=6(msg/sec)
+sent(219001): total=6660, rate=40(msg/sec)
+sent(319000): total=10660, rate=40(msg/sec)
+conneted: 39
+conneted: 40
+sent(120001): total=2700, rate=40(msg/sec)
+sent(20001): total=60, rate=6(msg/sec)
+sent(220001): total=6700, rate=40(msg/sec)
+sent(320000): total=10700, rate=40(msg/sec)
+conneted: 41
+conneted: 42
+sent(121001): total=2740, rate=40(msg/sec)
+sent(21001): total=68, rate=8(msg/sec)
+sent(221001): total=6740, rate=40(msg/sec)
+sent(321000): total=10740, rate=40(msg/sec)
+conneted: 43
+conneted: 44
+sent(122001): total=2780, rate=40(msg/sec)
+sent(22001): total=76, rate=8(msg/sec)
+sent(222001): total=6780, rate=40(msg/sec)
+sent(322000): total=10780, rate=40(msg/sec)
+conneted: 45
+conneted: 46
+sent(123001): total=2820, rate=40(msg/sec)
+sent(23001): total=84, rate=8(msg/sec)
+sent(223001): total=6820, rate=40(msg/sec)
+sent(323000): total=10820, rate=40(msg/sec)
+conneted: 47
+conneted: 48
+sent(124001): total=2860, rate=40(msg/sec)
+sent(24001): total=92, rate=8(msg/sec)
+sent(224001): total=6860, rate=40(msg/sec)
+sent(324000): total=10860, rate=40(msg/sec)
+conneted: 49
+conneted: 50
+sent(125001): total=2900, rate=40(msg/sec)
+sent(25001): total=100, rate=8(msg/sec)
+sent(225001): total=6900, rate=40(msg/sec)
+sent(325000): total=10900, rate=40(msg/sec)
+conneted: 51
+conneted: 52
+sent(126001): total=2940, rate=40(msg/sec)
+sent(26001): total=110, rate=10(msg/sec)
+sent(226001): total=6940, rate=40(msg/sec)
+sent(326000): total=10940, rate=40(msg/sec)
+conneted: 53
+conneted: 54
+sent(127001): total=2980, rate=40(msg/sec)
+sent(27001): total=120, rate=10(msg/sec)
+sent(227001): total=6980, rate=40(msg/sec)
+sent(327000): total=10980, rate=40(msg/sec)
+conneted: 55
+conneted: 56
+sent(128001): total=3020, rate=40(msg/sec)
+sent(28001): total=130, rate=10(msg/sec)
+sent(228001): total=7020, rate=40(msg/sec)
+sent(328000): total=11020, rate=40(msg/sec)
+conneted: 57
+conneted: 58
+sent(129001): total=3060, rate=40(msg/sec)
+sent(29001): total=140, rate=10(msg/sec)
+sent(229001): total=7060, rate=40(msg/sec)
+sent(329000): total=11060, rate=40(msg/sec)
+conneted: 59
+conneted: 60
+sent(130001): total=3100, rate=40(msg/sec)
+sent(30001): total=150, rate=10(msg/sec)
+sent(230001): total=7100, rate=40(msg/sec)
+sent(330000): total=11100, rate=40(msg/sec)
+conneted: 61
+conneted: 62
+sent(131001): total=3140, rate=40(msg/sec)
+sent(31001): total=162, rate=12(msg/sec)
+sent(231001): total=7140, rate=40(msg/sec)
+sent(331000): total=11140, rate=40(msg/sec)
+conneted: 63
+conneted: 64
+sent(132001): total=3180, rate=40(msg/sec)
+sent(32001): total=174, rate=12(msg/sec)
+sent(232001): total=7180, rate=40(msg/sec)
+sent(332000): total=11180, rate=40(msg/sec)
+conneted: 65
+conneted: 66
+sent(133001): total=3220, rate=40(msg/sec)
+sent(33001): total=186, rate=12(msg/sec)
+sent(233001): total=7220, rate=40(msg/sec)
+sent(333000): total=11220, rate=40(msg/sec)
+conneted: 67
+conneted: 68
+sent(134001): total=3260, rate=40(msg/sec)
+sent(34001): total=198, rate=12(msg/sec)
+sent(234001): total=7260, rate=40(msg/sec)
+sent(334000): total=11260, rate=40(msg/sec)
+conneted: 69
+conneted: 70
+sent(135001): total=3300, rate=40(msg/sec)
+sent(35001): total=210, rate=12(msg/sec)
+sent(235001): total=7300, rate=40(msg/sec)
+sent(335000): total=11300, rate=40(msg/sec)
+conneted: 71
+conneted: 72
+sent(136001): total=3340, rate=40(msg/sec)
+sent(36001): total=224, rate=14(msg/sec)
+sent(236001): total=7340, rate=40(msg/sec)
+sent(336000): total=11340, rate=40(msg/sec)
+conneted: 73
+conneted: 74
+sent(137001): total=3380, rate=40(msg/sec)
+sent(37001): total=238, rate=14(msg/sec)
+sent(237001): total=7380, rate=40(msg/sec)
+sent(337000): total=11380, rate=40(msg/sec)
+conneted: 75
+conneted: 76
+sent(138001): total=3420, rate=40(msg/sec)
+sent(38001): total=252, rate=14(msg/sec)
+sent(238001): total=7420, rate=40(msg/sec)
+sent(338000): total=11420, rate=40(msg/sec)
+conneted: 77
+conneted: 78
+sent(139001): total=3460, rate=40(msg/sec)
+sent(39001): total=266, rate=14(msg/sec)
+sent(239001): total=7460, rate=40(msg/sec)
+sent(339000): total=11460, rate=40(msg/sec)
+conneted: 79
+conneted: 80
+sent(140001): total=3500, rate=40(msg/sec)
+sent(40001): total=280, rate=14(msg/sec)
+sent(240001): total=7500, rate=40(msg/sec)
+sent(340000): total=11500, rate=40(msg/sec)
+conneted: 81
+conneted: 82
+sent(141001): total=3540, rate=40(msg/sec)
+sent(41001): total=296, rate=16(msg/sec)
+sent(241001): total=7540, rate=40(msg/sec)
+sent(341000): total=11540, rate=40(msg/sec)
+conneted: 83
+conneted: 84
+sent(142001): total=3580, rate=40(msg/sec)
+sent(42001): total=312, rate=16(msg/sec)
+sent(242001): total=7580, rate=40(msg/sec)
+sent(342000): total=11580, rate=40(msg/sec)
+conneted: 85
+conneted: 86
+sent(143001): total=3620, rate=40(msg/sec)
+sent(43001): total=328, rate=16(msg/sec)
+sent(243001): total=7620, rate=40(msg/sec)
+sent(343000): total=11620, rate=40(msg/sec)
+conneted: 87
+conneted: 88
+sent(144001): total=3660, rate=40(msg/sec)
+sent(44001): total=344, rate=16(msg/sec)
+sent(244001): total=7660, rate=40(msg/sec)
+sent(344000): total=11660, rate=40(msg/sec)
+conneted: 89
+conneted: 90
+sent(145001): total=3700, rate=40(msg/sec)
+sent(45001): total=360, rate=16(msg/sec)
+sent(245001): total=7700, rate=40(msg/sec)
+sent(345000): total=11700, rate=40(msg/sec)
+conneted: 91
+conneted: 92
+sent(146001): total=3740, rate=40(msg/sec)
+sent(46001): total=378, rate=18(msg/sec)
+sent(246001): total=7740, rate=40(msg/sec)
+sent(346000): total=11740, rate=40(msg/sec)
+conneted: 93
+conneted: 94
+sent(147001): total=3780, rate=40(msg/sec)
+sent(47001): total=396, rate=18(msg/sec)
+sent(247001): total=7780, rate=40(msg/sec)
+sent(347000): total=11780, rate=40(msg/sec)
+conneted: 95
+conneted: 96
+sent(148001): total=3820, rate=40(msg/sec)
+sent(48001): total=414, rate=18(msg/sec)
+sent(248001): total=7820, rate=40(msg/sec)
+sent(348000): total=11820, rate=40(msg/sec)
+conneted: 97
+conneted: 98
+sent(149001): total=3860, rate=40(msg/sec)
+sent(49001): total=432, rate=18(msg/sec)
+sent(249001): total=7860, rate=40(msg/sec)
+sent(349000): total=11860, rate=40(msg/sec)
+conneted: 99
+conneted: 100
+sent(150001): total=3900, rate=40(msg/sec)
+sent(50001): total=450, rate=18(msg/sec)
+sent(250001): total=7900, rate=40(msg/sec)
+sent(350000): total=11900, rate=40(msg/sec)
+conneted: 101
+conneted: 102
+sent(151001): total=3940, rate=40(msg/sec)
+sent(51001): total=470, rate=20(msg/sec)
+sent(251001): total=7940, rate=40(msg/sec)
+sent(351000): total=11940, rate=40(msg/sec)
+conneted: 103
+conneted: 104
+sent(152001): total=3980, rate=40(msg/sec)
+sent(52001): total=490, rate=20(msg/sec)
+sent(252001): total=7980, rate=40(msg/sec)
+sent(352000): total=11980, rate=40(msg/sec)
+conneted: 105
+conneted: 106
+sent(153001): total=4020, rate=40(msg/sec)
+sent(53001): total=510, rate=20(msg/sec)
+sent(253001): total=8020, rate=40(msg/sec)
+sent(353000): total=12020, rate=40(msg/sec)
+conneted: 107
+conneted: 108
+sent(154001): total=4060, rate=40(msg/sec)
+sent(54001): total=530, rate=20(msg/sec)
+sent(254001): total=8060, rate=40(msg/sec)
+sent(354000): total=12060, rate=40(msg/sec)
+conneted: 109
+conneted: 110
+sent(155001): total=4100, rate=40(msg/sec)
+sent(55001): total=550, rate=20(msg/sec)
+sent(255001): total=8100, rate=40(msg/sec)
+sent(355000): total=12100, rate=40(msg/sec)
+conneted: 111
+conneted: 112
+sent(156001): total=4140, rate=40(msg/sec)
+sent(56001): total=572, rate=22(msg/sec)
+sent(256001): total=8140, rate=40(msg/sec)
+sent(356000): total=12140, rate=40(msg/sec)
+conneted: 113
+conneted: 114
+sent(157001): total=4180, rate=40(msg/sec)
+sent(57001): total=594, rate=22(msg/sec)
+sent(257001): total=8180, rate=40(msg/sec)
+sent(357000): total=12180, rate=40(msg/sec)
+conneted: 115
+conneted: 116
+sent(158001): total=4220, rate=40(msg/sec)
+sent(58001): total=616, rate=22(msg/sec)
+sent(258001): total=8220, rate=40(msg/sec)
+sent(358000): total=12220, rate=40(msg/sec)
+conneted: 117
+conneted: 118
+sent(159001): total=4260, rate=40(msg/sec)
+sent(59001): total=638, rate=22(msg/sec)
+sent(259001): total=8260, rate=40(msg/sec)
+sent(359000): total=12260, rate=40(msg/sec)
+conneted: 119
+conneted: 120
+sent(160001): total=4300, rate=40(msg/sec)
+sent(60001): total=660, rate=22(msg/sec)
+sent(260001): total=8300, rate=40(msg/sec)
+sent(360000): total=12300, rate=40(msg/sec)
+conneted: 121
+conneted: 122
+sent(161001): total=4340, rate=40(msg/sec)
+sent(61001): total=684, rate=24(msg/sec)
+sent(261001): total=8340, rate=40(msg/sec)
+sent(361000): total=12340, rate=40(msg/sec)
+conneted: 123
+conneted: 124
+sent(162001): total=4380, rate=40(msg/sec)
+sent(62001): total=708, rate=24(msg/sec)
+sent(262001): total=8380, rate=40(msg/sec)
+sent(362000): total=12380, rate=40(msg/sec)
+conneted: 125
+conneted: 126
+sent(163001): total=4420, rate=40(msg/sec)
+sent(63001): total=732, rate=24(msg/sec)
+sent(263001): total=8420, rate=40(msg/sec)
+sent(363000): total=12420, rate=40(msg/sec)
+conneted: 127
+conneted: 128
+sent(164001): total=4460, rate=40(msg/sec)
+sent(64001): total=756, rate=24(msg/sec)
+sent(264001): total=8460, rate=40(msg/sec)
+sent(364000): total=12460, rate=40(msg/sec)
+conneted: 129
+conneted: 130
+sent(165001): total=4500, rate=40(msg/sec)
+sent(65001): total=780, rate=24(msg/sec)
+sent(265001): total=8500, rate=40(msg/sec)
+sent(365000): total=12500, rate=40(msg/sec)
+conneted: 131
+conneted: 132
+sent(166001): total=4540, rate=40(msg/sec)
+sent(66001): total=806, rate=26(msg/sec)
+sent(266001): total=8540, rate=40(msg/sec)
+sent(366000): total=12540, rate=40(msg/sec)
+conneted: 133
+conneted: 134
+sent(167001): total=4580, rate=40(msg/sec)
+sent(67001): total=832, rate=26(msg/sec)
+sent(267001): total=8580, rate=40(msg/sec)
+sent(367000): total=12580, rate=40(msg/sec)
+conneted: 135
+conneted: 136
+sent(168001): total=4620, rate=40(msg/sec)
+sent(68001): total=858, rate=26(msg/sec)
+sent(268001): total=8620, rate=40(msg/sec)
+sent(368000): total=12620, rate=40(msg/sec)
+conneted: 137
+conneted: 138
+sent(169001): total=4660, rate=40(msg/sec)
+sent(69001): total=884, rate=26(msg/sec)
+sent(269001): total=8660, rate=40(msg/sec)
+sent(369000): total=12660, rate=40(msg/sec)
+conneted: 139
+conneted: 140
+sent(170001): total=4700, rate=40(msg/sec)
+sent(70001): total=910, rate=26(msg/sec)
+sent(270001): total=8700, rate=40(msg/sec)
+sent(370000): total=12700, rate=40(msg/sec)
+conneted: 141
+conneted: 142
+sent(171001): total=4740, rate=40(msg/sec)
+sent(71001): total=938, rate=28(msg/sec)
+sent(271001): total=8740, rate=40(msg/sec)
+sent(371000): total=12740, rate=40(msg/sec)
+conneted: 143
+conneted: 144
+sent(172001): total=4780, rate=40(msg/sec)
+sent(72001): total=966, rate=28(msg/sec)
+sent(272001): total=8780, rate=40(msg/sec)
+sent(372000): total=12780, rate=40(msg/sec)
+conneted: 145
+conneted: 146
+sent(173001): total=4820, rate=40(msg/sec)
+sent(73001): total=994, rate=28(msg/sec)
+sent(273001): total=8820, rate=40(msg/sec)
+sent(373000): total=12820, rate=40(msg/sec)
+conneted: 147
+conneted: 148
+sent(174001): total=4860, rate=40(msg/sec)
+sent(74001): total=1022, rate=28(msg/sec)
+sent(274001): total=8860, rate=40(msg/sec)
+sent(374000): total=12860, rate=40(msg/sec)
+conneted: 149
+conneted: 150
+sent(175001): total=4900, rate=40(msg/sec)
+sent(75001): total=1050, rate=28(msg/sec)
+sent(275001): total=8900, rate=40(msg/sec)
+sent(375000): total=12900, rate=40(msg/sec)
+conneted: 151
+conneted: 152
+sent(176001): total=4940, rate=40(msg/sec)
+sent(76001): total=1080, rate=30(msg/sec)
+sent(276001): total=8940, rate=40(msg/sec)
+sent(376000): total=12940, rate=40(msg/sec)
+conneted: 153
+conneted: 154
+sent(177001): total=4980, rate=40(msg/sec)
+sent(77001): total=1110, rate=30(msg/sec)
+sent(277001): total=8980, rate=40(msg/sec)
+sent(377000): total=12980, rate=40(msg/sec)
+conneted: 155
+conneted: 156
+sent(178001): total=5020, rate=40(msg/sec)
+sent(78001): total=1140, rate=30(msg/sec)
+sent(278001): total=9020, rate=40(msg/sec)
+sent(378000): total=13020, rate=40(msg/sec)
+conneted: 157
+conneted: 158
+sent(179001): total=5060, rate=40(msg/sec)
+sent(79001): total=1170, rate=30(msg/sec)
+sent(279001): total=9060, rate=40(msg/sec)
+sent(379000): total=13060, rate=40(msg/sec)
+conneted: 159
+conneted: 160
+sent(180001): total=5100, rate=40(msg/sec)
+sent(80001): total=1200, rate=30(msg/sec)
+sent(280001): total=9100, rate=40(msg/sec)
+sent(380000): total=13100, rate=40(msg/sec)
+conneted: 161
+conneted: 162
+sent(181001): total=5140, rate=40(msg/sec)
+sent(81001): total=1232, rate=32(msg/sec)
+sent(281001): total=9140, rate=40(msg/sec)
+sent(381000): total=13140, rate=40(msg/sec)
+conneted: 163
+conneted: 164
+sent(182001): total=5180, rate=40(msg/sec)
+sent(82001): total=1264, rate=32(msg/sec)
+sent(282001): total=9180, rate=40(msg/sec)
+sent(382000): total=13180, rate=40(msg/sec)
+conneted: 165
+conneted: 166
+sent(183001): total=5220, rate=40(msg/sec)
+sent(83001): total=1296, rate=32(msg/sec)
+sent(283001): total=9220, rate=40(msg/sec)
+sent(383000): total=13220, rate=40(msg/sec)
+conneted: 167
+conneted: 168
+sent(184001): total=5260, rate=40(msg/sec)
+sent(84001): total=1328, rate=32(msg/sec)
+sent(284001): total=9260, rate=40(msg/sec)
+sent(384000): total=13260, rate=40(msg/sec)
+conneted: 169
+conneted: 170
+sent(185001): total=5300, rate=40(msg/sec)
+sent(85001): total=1360, rate=32(msg/sec)
+sent(285001): total=9300, rate=40(msg/sec)
+sent(385000): total=13300, rate=40(msg/sec)
+conneted: 171
+conneted: 172
+sent(186001): total=5340, rate=40(msg/sec)
+sent(86001): total=1394, rate=34(msg/sec)
+sent(286001): total=9340, rate=40(msg/sec)
+sent(386000): total=13340, rate=40(msg/sec)
+conneted: 173
+conneted: 174
+sent(187001): total=5380, rate=40(msg/sec)
+sent(87001): total=1428, rate=34(msg/sec)
+sent(287001): total=9380, rate=40(msg/sec)
+sent(387000): total=13380, rate=40(msg/sec)
+conneted: 175
+conneted: 176
+sent(188001): total=5420, rate=40(msg/sec)
+sent(88001): total=1462, rate=34(msg/sec)
+sent(288001): total=9420, rate=40(msg/sec)
+sent(388000): total=13420, rate=40(msg/sec)
+conneted: 177
+conneted: 178
+sent(189001): total=5460, rate=40(msg/sec)
+sent(89001): total=1496, rate=34(msg/sec)
+sent(289001): total=9460, rate=40(msg/sec)
+sent(389000): total=13460, rate=40(msg/sec)
+conneted: 179
+conneted: 180
+sent(190001): total=5500, rate=40(msg/sec)
+sent(90001): total=1530, rate=34(msg/sec)
+sent(290001): total=9500, rate=40(msg/sec)
+sent(390000): total=13500, rate=40(msg/sec)
+conneted: 181
+conneted: 182
+sent(191001): total=5540, rate=40(msg/sec)
+sent(91001): total=1566, rate=36(msg/sec)
+sent(291001): total=9540, rate=40(msg/sec)
+sent(391000): total=13540, rate=40(msg/sec)
+conneted: 183
+conneted: 184
+sent(192001): total=5580, rate=40(msg/sec)
+sent(92001): total=1602, rate=36(msg/sec)
+sent(292001): total=9580, rate=40(msg/sec)
+sent(392000): total=13580, rate=40(msg/sec)
+conneted: 185
+conneted: 186
+sent(193001): total=5620, rate=40(msg/sec)
+sent(93001): total=1638, rate=36(msg/sec)
+sent(293001): total=9620, rate=40(msg/sec)
+sent(393000): total=13620, rate=40(msg/sec)
+conneted: 187
+conneted: 188
+sent(194001): total=5660, rate=40(msg/sec)
+sent(94001): total=1674, rate=36(msg/sec)
+sent(294001): total=9660, rate=40(msg/sec)
+sent(394000): total=13660, rate=40(msg/sec)
+conneted: 189
+conneted: 190
+sent(195001): total=5700, rate=40(msg/sec)
+sent(95001): total=1710, rate=36(msg/sec)
+sent(295001): total=9700, rate=40(msg/sec)
+sent(395000): total=13700, rate=40(msg/sec)
+conneted: 191
+conneted: 192
+sent(196001): total=5740, rate=40(msg/sec)
+sent(96001): total=1748, rate=38(msg/sec)
+sent(296001): total=9740, rate=40(msg/sec)
+sent(396000): total=13740, rate=40(msg/sec)
+conneted: 193
+conneted: 194
+sent(197001): total=5780, rate=40(msg/sec)
+sent(97001): total=1786, rate=38(msg/sec)
+sent(297001): total=9780, rate=40(msg/sec)
+sent(397000): total=13780, rate=40(msg/sec)
+conneted: 195
+conneted: 196
+sent(198001): total=5820, rate=40(msg/sec)
+sent(98001): total=1824, rate=38(msg/sec)
+sent(298001): total=9820, rate=40(msg/sec)
+sent(398000): total=13820, rate=40(msg/sec)
+conneted: 197
+conneted: 198
+sent(199001): total=5860, rate=40(msg/sec)
+sent(99001): total=1862, rate=38(msg/sec)
+sent(299001): total=9860, rate=40(msg/sec)
+sent(399000): total=13860, rate=40(msg/sec)
+conneted: 199
+conneted: 200
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+sent(200001): total=5900, rate=40(msg/sec)
+sent(100001): total=1900, rate=38(msg/sec)
+sent(300001): total=9900, rate=40(msg/sec)
+sent(400000): total=13900, rate=40(msg/sec)
+15:28:34.847 [info] Application lager started on node nonode@nohost
+15:28:34.848 [info] Application emqttc started on node nonode@nohost
+15:28:34.848 [info] Application emqtt_benchmark started on node nonode@nohost
+conneted: 1
+conneted: 2
+sent(201001): total=5940, rate=40(msg/sec)
+sent(101001): total=1940, rate=40(msg/sec)
+sent(301001): total=9940, rate=40(msg/sec)
+sent(401000): total=13940, rate=40(msg/sec)
+conneted: 3
+conneted: 4
+sent(202001): total=5980, rate=40(msg/sec)
+sent(102001): total=1980, rate=40(msg/sec)
+sent(302001): total=9980, rate=40(msg/sec)
+sent(402000): total=13980, rate=40(msg/sec)
+conneted: 5
+conneted: 6
+sent(203001): total=6020, rate=40(msg/sec)
+sent(103001): total=2020, rate=40(msg/sec)
+sent(303001): total=10020, rate=40(msg/sec)
+sent(403000): total=14020, rate=40(msg/sec)
+conneted: 7
+conneted: 8
+sent(204001): total=6060, rate=40(msg/sec)
+sent(104001): total=2060, rate=40(msg/sec)
+sent(304001): total=10060, rate=40(msg/sec)
+sent(404000): total=14060, rate=40(msg/sec)
+conneted: 9
+conneted: 10
+sent(205001): total=6100, rate=40(msg/sec)
+sent(105001): total=2100, rate=40(msg/sec)
+sent(305001): total=10100, rate=40(msg/sec)
+sent(405000): total=14100, rate=40(msg/sec)
+conneted: 11
+conneted: 12
+sent(206001): total=6140, rate=40(msg/sec)
+sent(106001): total=2140, rate=40(msg/sec)
+sent(306001): total=10140, rate=40(msg/sec)
+sent(406000): total=14140, rate=40(msg/sec)
+sent(6000): total=2, rate=2(msg/sec)
+conneted: 13
+conneted: 14
+sent(207001): total=6180, rate=40(msg/sec)
+sent(107001): total=2180, rate=40(msg/sec)
+sent(307001): total=10180, rate=40(msg/sec)
+sent(407000): total=14180, rate=40(msg/sec)
+sent(7000): total=4, rate=2(msg/sec)
+conneted: 15
+conneted: 16
+sent(208001): total=6220, rate=40(msg/sec)
+sent(108001): total=2220, rate=40(msg/sec)
+sent(308001): total=10220, rate=40(msg/sec)
+sent(408000): total=14220, rate=40(msg/sec)
+sent(8000): total=6, rate=2(msg/sec)
+conneted: 17
+conneted: 18
+sent(209001): total=6260, rate=40(msg/sec)
+sent(109001): total=2260, rate=40(msg/sec)
+sent(309001): total=10260, rate=40(msg/sec)
+sent(409000): total=14260, rate=40(msg/sec)
+sent(9000): total=8, rate=2(msg/sec)
+conneted: 19
+conneted: 20
+sent(210001): total=6300, rate=40(msg/sec)
+sent(110001): total=2300, rate=40(msg/sec)
+sent(310001): total=10300, rate=40(msg/sec)
+sent(410000): total=14300, rate=40(msg/sec)
+sent(10000): total=10, rate=2(msg/sec)
+conneted: 21
+conneted: 22
+sent(211001): total=6340, rate=40(msg/sec)
+sent(111001): total=2340, rate=40(msg/sec)
+sent(311001): total=10340, rate=40(msg/sec)
+sent(411000): total=14340, rate=40(msg/sec)
+sent(11000): total=14, rate=4(msg/sec)
+conneted: 23
+conneted: 24
+sent(212001): total=6380, rate=40(msg/sec)
+sent(112001): total=2380, rate=40(msg/sec)
+sent(312001): total=10380, rate=40(msg/sec)
+sent(412000): total=14380, rate=40(msg/sec)
+sent(12000): total=18, rate=4(msg/sec)
+conneted: 25
+conneted: 26
+sent(213001): total=6420, rate=40(msg/sec)
+sent(113001): total=2420, rate=40(msg/sec)
+sent(313001): total=10420, rate=40(msg/sec)
+sent(413000): total=14420, rate=40(msg/sec)
+sent(13000): total=22, rate=4(msg/sec)
+conneted: 27
+conneted: 28
+sent(214001): total=6460, rate=40(msg/sec)
+sent(114001): total=2460, rate=40(msg/sec)
+sent(314001): total=10460, rate=40(msg/sec)
+sent(414000): total=14460, rate=40(msg/sec)
+sent(14000): total=26, rate=4(msg/sec)
+conneted: 29
+conneted: 30
+sent(215001): total=6500, rate=40(msg/sec)
+sent(115001): total=2500, rate=40(msg/sec)
+sent(315001): total=10500, rate=40(msg/sec)
+sent(415000): total=14500, rate=40(msg/sec)
+sent(15000): total=30, rate=4(msg/sec)
+conneted: 31
+conneted: 32
+sent(216001): total=6540, rate=40(msg/sec)
+sent(116001): total=2540, rate=40(msg/sec)
+sent(316001): total=10540, rate=40(msg/sec)
+sent(416000): total=14540, rate=40(msg/sec)
+sent(16000): total=36, rate=6(msg/sec)
+conneted: 33
+conneted: 34
+sent(217001): total=6580, rate=40(msg/sec)
+sent(117001): total=2580, rate=40(msg/sec)
+sent(317001): total=10580, rate=40(msg/sec)
+sent(417000): total=14580, rate=40(msg/sec)
+sent(17000): total=42, rate=6(msg/sec)
+conneted: 35
+conneted: 36
+sent(218001): total=6620, rate=40(msg/sec)
+sent(118001): total=2620, rate=40(msg/sec)
+sent(318001): total=10620, rate=40(msg/sec)
+sent(418000): total=14620, rate=40(msg/sec)
+sent(18000): total=48, rate=6(msg/sec)
+conneted: 37
+conneted: 38
+sent(219001): total=6660, rate=40(msg/sec)
+sent(119001): total=2660, rate=40(msg/sec)
+sent(319001): total=10660, rate=40(msg/sec)
+sent(419000): total=14660, rate=40(msg/sec)
+sent(19000): total=54, rate=6(msg/sec)
+conneted: 39
+conneted: 40
+sent(220001): total=6700, rate=40(msg/sec)
+sent(120001): total=2700, rate=40(msg/sec)
+sent(320001): total=10700, rate=40(msg/sec)
+sent(420000): total=14700, rate=40(msg/sec)
+sent(20000): total=60, rate=6(msg/sec)
+conneted: 41
+conneted: 42
+sent(221001): total=6740, rate=40(msg/sec)
+sent(121001): total=2740, rate=40(msg/sec)
+sent(321001): total=10740, rate=40(msg/sec)
+sent(421000): total=14740, rate=40(msg/sec)
+sent(21000): total=68, rate=8(msg/sec)
+conneted: 43
+conneted: 44
+sent(222001): total=6780, rate=40(msg/sec)
+sent(122001): total=2780, rate=40(msg/sec)
+sent(322001): total=10780, rate=40(msg/sec)
+sent(422000): total=14780, rate=40(msg/sec)
+sent(22000): total=76, rate=8(msg/sec)
+conneted: 45
+conneted: 46
+sent(223001): total=6820, rate=40(msg/sec)
+sent(123001): total=2820, rate=40(msg/sec)
+sent(323001): total=10820, rate=40(msg/sec)
+sent(423000): total=14820, rate=40(msg/sec)
+sent(23000): total=84, rate=8(msg/sec)
+conneted: 47
+conneted: 48
+sent(224001): total=6860, rate=40(msg/sec)
+sent(124001): total=2860, rate=40(msg/sec)
+sent(324001): total=10860, rate=40(msg/sec)
+sent(424000): total=14860, rate=40(msg/sec)
+sent(24000): total=92, rate=8(msg/sec)
+conneted: 49
+conneted: 50
+sent(225001): total=6900, rate=40(msg/sec)
+sent(125001): total=2900, rate=40(msg/sec)
+sent(325001): total=10900, rate=40(msg/sec)
+sent(425000): total=14900, rate=40(msg/sec)
+sent(25000): total=100, rate=8(msg/sec)
+conneted: 51
+conneted: 52
+sent(226001): total=6940, rate=40(msg/sec)
+sent(126001): total=2940, rate=40(msg/sec)
+sent(326001): total=10940, rate=40(msg/sec)
+sent(426000): total=14940, rate=40(msg/sec)
+sent(26000): total=110, rate=10(msg/sec)
+conneted: 53
+conneted: 54
+sent(227001): total=6980, rate=40(msg/sec)
+sent(127001): total=2980, rate=40(msg/sec)
+sent(327001): total=10980, rate=40(msg/sec)
+sent(427000): total=14980, rate=40(msg/sec)
+sent(27000): total=120, rate=10(msg/sec)
+conneted: 55
+conneted: 56
+sent(228001): total=7020, rate=40(msg/sec)
+sent(128001): total=3020, rate=40(msg/sec)
+sent(328001): total=11020, rate=40(msg/sec)
+sent(428000): total=15020, rate=40(msg/sec)
+sent(28000): total=130, rate=10(msg/sec)
+conneted: 57
+conneted: 58
+sent(229001): total=7060, rate=40(msg/sec)
+sent(129001): total=3060, rate=40(msg/sec)
+sent(329001): total=11060, rate=40(msg/sec)
+sent(429000): total=15060, rate=40(msg/sec)
+sent(29000): total=140, rate=10(msg/sec)
+conneted: 59
+conneted: 60
+sent(230001): total=7100, rate=40(msg/sec)
+sent(130001): total=3100, rate=40(msg/sec)
+sent(330001): total=11100, rate=40(msg/sec)
+sent(430000): total=15100, rate=40(msg/sec)
+sent(30000): total=150, rate=10(msg/sec)
+conneted: 61
+conneted: 62
+sent(231001): total=7140, rate=40(msg/sec)
+sent(131001): total=3140, rate=40(msg/sec)
+sent(331001): total=11140, rate=40(msg/sec)
+sent(431000): total=15140, rate=40(msg/sec)
+sent(31000): total=162, rate=12(msg/sec)
+conneted: 63
+conneted: 64
+sent(232001): total=7180, rate=40(msg/sec)
+sent(132001): total=3180, rate=40(msg/sec)
+sent(332001): total=11180, rate=40(msg/sec)
+sent(432000): total=15180, rate=40(msg/sec)
+sent(32000): total=174, rate=12(msg/sec)
+conneted: 65
+conneted: 66
+sent(233001): total=7220, rate=40(msg/sec)
+sent(133001): total=3220, rate=40(msg/sec)
+sent(333001): total=11220, rate=40(msg/sec)
+sent(433000): total=15220, rate=40(msg/sec)
+sent(33000): total=186, rate=12(msg/sec)
+conneted: 67
+conneted: 68
+sent(234001): total=7260, rate=40(msg/sec)
+sent(134001): total=3260, rate=40(msg/sec)
+sent(334001): total=11260, rate=40(msg/sec)
+sent(434000): total=15260, rate=40(msg/sec)
+sent(34000): total=198, rate=12(msg/sec)
+conneted: 69
+conneted: 70
+sent(235001): total=7300, rate=40(msg/sec)
+sent(135001): total=3300, rate=40(msg/sec)
+sent(335001): total=11300, rate=40(msg/sec)
+sent(435000): total=15300, rate=40(msg/sec)
+sent(35000): total=210, rate=12(msg/sec)
+conneted: 71
+conneted: 72
+sent(236001): total=7340, rate=40(msg/sec)
+sent(136001): total=3340, rate=40(msg/sec)
+sent(336001): total=11340, rate=40(msg/sec)
+sent(436000): total=15340, rate=40(msg/sec)
+sent(36000): total=224, rate=14(msg/sec)
+conneted: 73
+conneted: 74
+sent(237001): total=7380, rate=40(msg/sec)
+sent(137001): total=3380, rate=40(msg/sec)
+sent(337001): total=11380, rate=40(msg/sec)
+sent(437000): total=15380, rate=40(msg/sec)
+sent(37000): total=238, rate=14(msg/sec)
+conneted: 75
+conneted: 76
+sent(238001): total=7420, rate=40(msg/sec)
+sent(138001): total=3420, rate=40(msg/sec)
+sent(338001): total=11420, rate=40(msg/sec)
+sent(438000): total=15420, rate=40(msg/sec)
+sent(38000): total=252, rate=14(msg/sec)
+conneted: 77
+conneted: 78
+sent(239001): total=7460, rate=40(msg/sec)
+sent(139001): total=3460, rate=40(msg/sec)
+sent(339001): total=11460, rate=40(msg/sec)
+sent(439000): total=15460, rate=40(msg/sec)
+sent(39000): total=266, rate=14(msg/sec)
+conneted: 79
+conneted: 80
+sent(240001): total=7500, rate=40(msg/sec)
+sent(140001): total=3500, rate=40(msg/sec)
+sent(340001): total=11500, rate=40(msg/sec)
+sent(440000): total=15500, rate=40(msg/sec)
+sent(40000): total=280, rate=14(msg/sec)
+conneted: 81
+conneted: 82
+sent(241001): total=7540, rate=40(msg/sec)
+sent(141001): total=3540, rate=40(msg/sec)
+sent(341001): total=11540, rate=40(msg/sec)
+sent(441000): total=15540, rate=40(msg/sec)
+sent(41000): total=296, rate=16(msg/sec)
+conneted: 83
+conneted: 84
+sent(242001): total=7580, rate=40(msg/sec)
+sent(142001): total=3580, rate=40(msg/sec)
+sent(342001): total=11580, rate=40(msg/sec)
+sent(442000): total=15580, rate=40(msg/sec)
+sent(42000): total=312, rate=16(msg/sec)
+conneted: 85
+conneted: 86
+sent(243001): total=7620, rate=40(msg/sec)
+sent(143001): total=3620, rate=40(msg/sec)
+sent(343001): total=11620, rate=40(msg/sec)
+sent(443000): total=15620, rate=40(msg/sec)
+sent(43000): total=328, rate=16(msg/sec)
+conneted: 87
+conneted: 88
+sent(244001): total=7660, rate=40(msg/sec)
+sent(144001): total=3660, rate=40(msg/sec)
+sent(344001): total=11660, rate=40(msg/sec)
+sent(444000): total=15660, rate=40(msg/sec)
+sent(44000): total=344, rate=16(msg/sec)
+conneted: 89
+conneted: 90
+sent(245001): total=7700, rate=40(msg/sec)
+sent(145001): total=3700, rate=40(msg/sec)
+sent(345001): total=11700, rate=40(msg/sec)
+sent(445001): total=15700, rate=40(msg/sec)
+sent(45000): total=360, rate=16(msg/sec)
+conneted: 91
+conneted: 92
+sent(246001): total=7740, rate=40(msg/sec)
+sent(146001): total=3740, rate=40(msg/sec)
+sent(346001): total=11740, rate=40(msg/sec)
+sent(446000): total=15740, rate=40(msg/sec)
+sent(46000): total=378, rate=18(msg/sec)
+conneted: 93
+conneted: 94
+sent(247001): total=7780, rate=40(msg/sec)
+sent(147001): total=3780, rate=40(msg/sec)
+sent(347001): total=11780, rate=40(msg/sec)
+sent(447000): total=15780, rate=40(msg/sec)
+sent(47000): total=396, rate=18(msg/sec)
+conneted: 95
+conneted: 96
+sent(248001): total=7820, rate=40(msg/sec)
+sent(148001): total=3820, rate=40(msg/sec)
+sent(348001): total=11820, rate=40(msg/sec)
+sent(448000): total=15820, rate=40(msg/sec)
+sent(48000): total=414, rate=18(msg/sec)
+conneted: 97
+conneted: 98
+sent(249001): total=7860, rate=40(msg/sec)
+sent(149001): total=3860, rate=40(msg/sec)
+sent(349001): total=11860, rate=40(msg/sec)
+sent(449000): total=15860, rate=40(msg/sec)
+sent(49000): total=432, rate=18(msg/sec)
+conneted: 99
+conneted: 100
+sent(250001): total=7900, rate=40(msg/sec)
+sent(150001): total=3900, rate=40(msg/sec)
+sent(350001): total=11900, rate=40(msg/sec)
+sent(450000): total=15900, rate=40(msg/sec)
+sent(50000): total=450, rate=18(msg/sec)
+conneted: 101
+conneted: 102
+sent(251001): total=7940, rate=40(msg/sec)
+sent(151001): total=3940, rate=40(msg/sec)
+sent(351001): total=11940, rate=40(msg/sec)
+sent(451000): total=15940, rate=40(msg/sec)
+sent(51000): total=470, rate=20(msg/sec)
+conneted: 103
+conneted: 104
+sent(252001): total=7980, rate=40(msg/sec)
+sent(152001): total=3980, rate=40(msg/sec)
+sent(352001): total=11980, rate=40(msg/sec)
+sent(452000): total=15980, rate=40(msg/sec)
+sent(52000): total=490, rate=20(msg/sec)
+conneted: 105
+conneted: 106
+sent(253001): total=8020, rate=40(msg/sec)
+sent(153001): total=4020, rate=40(msg/sec)
+sent(353001): total=12020, rate=40(msg/sec)
+sent(453000): total=16020, rate=40(msg/sec)
+sent(53000): total=510, rate=20(msg/sec)
+conneted: 107
+conneted: 108
+sent(254001): total=8060, rate=40(msg/sec)
+sent(154001): total=4060, rate=40(msg/sec)
+sent(354001): total=12060, rate=40(msg/sec)
+sent(454000): total=16060, rate=40(msg/sec)
+sent(54000): total=530, rate=20(msg/sec)
+conneted: 109
+conneted: 110
+sent(255001): total=8100, rate=40(msg/sec)
+sent(155001): total=4100, rate=40(msg/sec)
+sent(355001): total=12100, rate=40(msg/sec)
+sent(455000): total=16100, rate=40(msg/sec)
+sent(55000): total=550, rate=20(msg/sec)
+conneted: 111
+conneted: 112
+sent(256001): total=8140, rate=40(msg/sec)
+sent(156001): total=4140, rate=40(msg/sec)
+sent(356001): total=12140, rate=40(msg/sec)
+sent(456000): total=16140, rate=40(msg/sec)
+sent(56000): total=572, rate=22(msg/sec)
+conneted: 113
+conneted: 114
+sent(257001): total=8180, rate=40(msg/sec)
+sent(157001): total=4180, rate=40(msg/sec)
+sent(357001): total=12180, rate=40(msg/sec)
+sent(457000): total=16180, rate=40(msg/sec)
+sent(57000): total=594, rate=22(msg/sec)
+conneted: 115
+conneted: 116
+sent(258001): total=8220, rate=40(msg/sec)
+sent(158001): total=4220, rate=40(msg/sec)
+sent(358001): total=12220, rate=40(msg/sec)
+sent(458000): total=16220, rate=40(msg/sec)
+sent(58000): total=616, rate=22(msg/sec)
+conneted: 117
+conneted: 118
+sent(259001): total=8260, rate=40(msg/sec)
+sent(159001): total=4260, rate=40(msg/sec)
+sent(359001): total=12260, rate=40(msg/sec)
+sent(459000): total=16260, rate=40(msg/sec)
+sent(59000): total=638, rate=22(msg/sec)
+conneted: 119
+conneted: 120
+sent(260001): total=8300, rate=40(msg/sec)
+sent(160001): total=4300, rate=40(msg/sec)
+sent(360001): total=12300, rate=40(msg/sec)
+sent(460000): total=16300, rate=40(msg/sec)
+sent(60000): total=660, rate=22(msg/sec)
+conneted: 121
+conneted: 122
+sent(261001): total=8340, rate=40(msg/sec)
+sent(161001): total=4340, rate=40(msg/sec)
+sent(361001): total=12340, rate=40(msg/sec)
+sent(461000): total=16340, rate=40(msg/sec)
+sent(61000): total=684, rate=24(msg/sec)
+conneted: 123
+conneted: 124
+sent(262001): total=8380, rate=40(msg/sec)
+sent(162001): total=4380, rate=40(msg/sec)
+sent(362001): total=12380, rate=40(msg/sec)
+sent(462000): total=16380, rate=40(msg/sec)
+sent(62000): total=708, rate=24(msg/sec)
+conneted: 125
+conneted: 126
+sent(263001): total=8420, rate=40(msg/sec)
+sent(163001): total=4420, rate=40(msg/sec)
+sent(363001): total=12420, rate=40(msg/sec)
+sent(463000): total=16420, rate=40(msg/sec)
+sent(63000): total=732, rate=24(msg/sec)
+conneted: 127
+conneted: 128
+sent(264001): total=8460, rate=40(msg/sec)
+sent(164001): total=4460, rate=40(msg/sec)
+sent(364001): total=12460, rate=40(msg/sec)
+sent(464000): total=16460, rate=40(msg/sec)
+sent(64000): total=756, rate=24(msg/sec)
+conneted: 129
+conneted: 130
+sent(265001): total=8500, rate=40(msg/sec)
+sent(165001): total=4500, rate=40(msg/sec)
+sent(365001): total=12500, rate=40(msg/sec)
+sent(465000): total=16500, rate=40(msg/sec)
+sent(65000): total=780, rate=24(msg/sec)
+conneted: 131
+conneted: 132
+sent(266001): total=8540, rate=40(msg/sec)
+sent(166001): total=4540, rate=40(msg/sec)
+sent(366001): total=12540, rate=40(msg/sec)
+sent(466000): total=16540, rate=40(msg/sec)
+sent(66000): total=806, rate=26(msg/sec)
+conneted: 133
+conneted: 134
+sent(267001): total=8580, rate=40(msg/sec)
+sent(167001): total=4580, rate=40(msg/sec)
+sent(367001): total=12580, rate=40(msg/sec)
+sent(467000): total=16580, rate=40(msg/sec)
+sent(67000): total=832, rate=26(msg/sec)
+conneted: 135
+conneted: 136
+sent(268001): total=8620, rate=40(msg/sec)
+sent(168001): total=4620, rate=40(msg/sec)
+sent(368001): total=12620, rate=40(msg/sec)
+sent(468000): total=16620, rate=40(msg/sec)
+sent(68000): total=858, rate=26(msg/sec)
+conneted: 137
+conneted: 138
+sent(269001): total=8660, rate=40(msg/sec)
+sent(169001): total=4660, rate=40(msg/sec)
+sent(369001): total=12660, rate=40(msg/sec)
+sent(469000): total=16660, rate=40(msg/sec)
+sent(69000): total=884, rate=26(msg/sec)
+conneted: 139
+conneted: 140
+sent(270001): total=8700, rate=40(msg/sec)
+sent(170001): total=4700, rate=40(msg/sec)
+sent(370001): total=12700, rate=40(msg/sec)
+sent(470000): total=16700, rate=40(msg/sec)
+sent(70000): total=910, rate=26(msg/sec)
+conneted: 141
+conneted: 142
+sent(271001): total=8740, rate=40(msg/sec)
+sent(171001): total=4740, rate=40(msg/sec)
+sent(371001): total=12740, rate=40(msg/sec)
+sent(471000): total=16740, rate=40(msg/sec)
+sent(71000): total=938, rate=28(msg/sec)
+conneted: 143
+conneted: 144
+sent(272001): total=8780, rate=40(msg/sec)
+sent(172001): total=4780, rate=40(msg/sec)
+sent(372001): total=12780, rate=40(msg/sec)
+sent(472001): total=16780, rate=40(msg/sec)
+sent(72000): total=966, rate=28(msg/sec)
+conneted: 145
+conneted: 146
+sent(273001): total=8820, rate=40(msg/sec)
+sent(173001): total=4820, rate=40(msg/sec)
+sent(373001): total=12820, rate=40(msg/sec)
+sent(473000): total=16820, rate=40(msg/sec)
+sent(73000): total=994, rate=28(msg/sec)
+conneted: 147
+conneted: 148
+sent(274001): total=8860, rate=40(msg/sec)
+sent(174001): total=4860, rate=40(msg/sec)
+sent(374001): total=12860, rate=40(msg/sec)
+sent(474000): total=16860, rate=40(msg/sec)
+sent(74000): total=1022, rate=28(msg/sec)
+conneted: 149
+conneted: 150
+sent(275001): total=8900, rate=40(msg/sec)
+sent(175001): total=4900, rate=40(msg/sec)
+sent(375001): total=12900, rate=40(msg/sec)
+sent(475000): total=16900, rate=40(msg/sec)
+sent(75000): total=1050, rate=28(msg/sec)
+conneted: 151
+conneted: 152
+sent(276001): total=8940, rate=40(msg/sec)
+sent(176001): total=4940, rate=40(msg/sec)
+sent(376001): total=12940, rate=40(msg/sec)
+sent(476000): total=16940, rate=40(msg/sec)
+sent(76000): total=1080, rate=30(msg/sec)
+conneted: 153
+conneted: 154
+sent(277001): total=8980, rate=40(msg/sec)
+sent(177001): total=4980, rate=40(msg/sec)
+sent(377001): total=12980, rate=40(msg/sec)
+sent(477000): total=16980, rate=40(msg/sec)
+sent(77000): total=1110, rate=30(msg/sec)
+conneted: 155
+conneted: 156
+sent(278001): total=9020, rate=40(msg/sec)
+sent(178001): total=5020, rate=40(msg/sec)
+sent(378001): total=13020, rate=40(msg/sec)
+sent(478000): total=17020, rate=40(msg/sec)
+sent(78000): total=1140, rate=30(msg/sec)
+conneted: 157
+conneted: 158
+sent(279001): total=9060, rate=40(msg/sec)
+sent(179001): total=5060, rate=40(msg/sec)
+sent(379001): total=13060, rate=40(msg/sec)
+sent(479000): total=17060, rate=40(msg/sec)
+sent(79000): total=1170, rate=30(msg/sec)
+conneted: 159
+conneted: 160
+sent(280001): total=9100, rate=40(msg/sec)
+sent(180001): total=5100, rate=40(msg/sec)
+sent(380001): total=13100, rate=40(msg/sec)
+sent(480000): total=17100, rate=40(msg/sec)
+sent(80000): total=1200, rate=30(msg/sec)
+conneted: 161
+conneted: 162
+sent(281001): total=9140, rate=40(msg/sec)
+sent(181001): total=5140, rate=40(msg/sec)
+sent(381001): total=13140, rate=40(msg/sec)
+sent(481000): total=17140, rate=40(msg/sec)
+sent(81000): total=1232, rate=32(msg/sec)
+conneted: 163
+conneted: 164
+sent(282001): total=9180, rate=40(msg/sec)
+sent(182001): total=5180, rate=40(msg/sec)
+sent(382001): total=13180, rate=40(msg/sec)
+sent(482000): total=17180, rate=40(msg/sec)
+sent(82000): total=1264, rate=32(msg/sec)
+conneted: 165
+conneted: 166
+sent(283001): total=9220, rate=40(msg/sec)
+sent(183001): total=5220, rate=40(msg/sec)
+sent(383001): total=13220, rate=40(msg/sec)
+sent(483000): total=17220, rate=40(msg/sec)
+sent(83000): total=1296, rate=32(msg/sec)
+conneted: 167
+conneted: 168
+sent(284001): total=9260, rate=40(msg/sec)
+sent(184001): total=5260, rate=40(msg/sec)
+sent(384001): total=13260, rate=40(msg/sec)
+sent(484000): total=17260, rate=40(msg/sec)
+sent(84000): total=1328, rate=32(msg/sec)
+conneted: 169
+conneted: 170
+sent(285001): total=9300, rate=40(msg/sec)
+sent(185001): total=5300, rate=40(msg/sec)
+sent(385001): total=13300, rate=40(msg/sec)
+sent(485000): total=17300, rate=40(msg/sec)
+sent(85000): total=1360, rate=32(msg/sec)
+conneted: 171
+conneted: 172
+sent(286001): total=9340, rate=40(msg/sec)
+sent(186001): total=5340, rate=40(msg/sec)
+sent(386001): total=13340, rate=40(msg/sec)
+sent(486000): total=17340, rate=40(msg/sec)
+sent(86000): total=1394, rate=34(msg/sec)
+conneted: 173
+conneted: 174
+sent(287001): total=9380, rate=40(msg/sec)
+sent(187001): total=5380, rate=40(msg/sec)
+sent(387001): total=13380, rate=40(msg/sec)
+sent(487000): total=17380, rate=40(msg/sec)
+sent(87000): total=1428, rate=34(msg/sec)
+conneted: 175
+conneted: 176
+sent(288001): total=9420, rate=40(msg/sec)
+sent(188001): total=5420, rate=40(msg/sec)
+sent(388001): total=13420, rate=40(msg/sec)
+sent(488000): total=17420, rate=40(msg/sec)
+sent(88000): total=1462, rate=34(msg/sec)
+conneted: 177
+conneted: 178
+sent(289001): total=9460, rate=40(msg/sec)
+sent(189001): total=5460, rate=40(msg/sec)
+sent(389001): total=13460, rate=40(msg/sec)
+sent(489000): total=17460, rate=40(msg/sec)
+sent(89000): total=1496, rate=34(msg/sec)
+conneted: 179
+conneted: 180
+sent(290001): total=9500, rate=40(msg/sec)
+sent(190001): total=5500, rate=40(msg/sec)
+sent(390001): total=13500, rate=40(msg/sec)
+sent(490000): total=17500, rate=40(msg/sec)
+sent(90000): total=1530, rate=34(msg/sec)
+conneted: 181
+conneted: 182
+sent(291001): total=9540, rate=40(msg/sec)
+sent(191001): total=5540, rate=40(msg/sec)
+sent(391001): total=13540, rate=40(msg/sec)
+sent(491000): total=17540, rate=40(msg/sec)
+sent(91000): total=1566, rate=36(msg/sec)
+conneted: 183
+conneted: 184
+sent(292001): total=9580, rate=40(msg/sec)
+sent(192001): total=5580, rate=40(msg/sec)
+sent(392001): total=13580, rate=40(msg/sec)
+sent(492000): total=17580, rate=40(msg/sec)
+sent(92000): total=1602, rate=36(msg/sec)
+conneted: 185
+conneted: 186
+sent(293001): total=9620, rate=40(msg/sec)
+sent(193001): total=5620, rate=40(msg/sec)
+sent(393001): total=13620, rate=40(msg/sec)
+sent(493000): total=17620, rate=40(msg/sec)
+sent(93000): total=1638, rate=36(msg/sec)
+conneted: 187
+conneted: 188
+sent(294001): total=9660, rate=40(msg/sec)
+sent(194001): total=5660, rate=40(msg/sec)
+sent(394001): total=13660, rate=40(msg/sec)
+sent(494000): total=17660, rate=40(msg/sec)
+sent(94000): total=1674, rate=36(msg/sec)
+conneted: 189
+conneted: 190
+sent(295001): total=9700, rate=40(msg/sec)
+sent(195001): total=5700, rate=40(msg/sec)
+sent(395001): total=13700, rate=40(msg/sec)
+sent(495000): total=17700, rate=40(msg/sec)
+sent(95000): total=1710, rate=36(msg/sec)
+conneted: 191
+conneted: 192
+sent(296001): total=9740, rate=40(msg/sec)
+sent(196001): total=5740, rate=40(msg/sec)
+sent(396001): total=13740, rate=40(msg/sec)
+sent(496000): total=17740, rate=40(msg/sec)
+sent(96000): total=1748, rate=38(msg/sec)
+conneted: 193
+conneted: 194
+sent(297001): total=9780, rate=40(msg/sec)
+sent(197001): total=5780, rate=40(msg/sec)
+sent(397001): total=13780, rate=40(msg/sec)
+sent(497000): total=17780, rate=40(msg/sec)
+sent(97000): total=1786, rate=38(msg/sec)
+conneted: 195
+conneted: 196
+sent(298001): total=9820, rate=40(msg/sec)
+sent(198001): total=5820, rate=40(msg/sec)
+sent(398001): total=13820, rate=40(msg/sec)
+sent(498000): total=17820, rate=40(msg/sec)
+sent(98000): total=1824, rate=38(msg/sec)
+conneted: 197
+conneted: 198
+sent(299001): total=9860, rate=40(msg/sec)
+sent(199001): total=5860, rate=40(msg/sec)
+sent(399001): total=13860, rate=40(msg/sec)
+sent(499000): total=17860, rate=40(msg/sec)
+sent(99000): total=1862, rate=38(msg/sec)
+conneted: 199
+conneted: 200
+milkcocoa.sh: line 2: /home/ubuntu/Erlang_Path/18.3.4.4/activate: No such file or directory
+sent(300001): total=9900, rate=40(msg/sec)
+sent(200001): total=5900, rate=40(msg/sec)
+sent(400001): total=13900, rate=40(msg/sec)
+sent(500000): total=17900, rate=40(msg/sec)
+15:30:14.846 [info] Application lager started on node nonode@nohost
+15:30:14.847 [info] Application emqttc started on node nonode@nohost
+15:30:14.847 [info] Application emqtt_benchmark started on node nonode@nohost
+sent(100000): total=1900, rate=38(msg/sec)
+conneted: 1
+conneted: 2
+sent(301001): total=9940, rate=40(msg/sec)
+sent(201001): total=5940, rate=40(msg/sec)
+sent(401001): total=13940, rate=40(msg/sec)
+sent(501000): total=17940, rate=40(msg/sec)
+conneted: 3
+sent(101001): total=1940, rate=40(msg/sec)
+conneted: 4
+sent(302001): total=9980, rate=40(msg/sec)
+sent(202001): total=5980, rate=40(msg/sec)
+sent(402001): total=13980, rate=40(msg/sec)
+sent(502000): total=17980, rate=40(msg/sec)
+sent(102001): total=1980, rate=40(msg/sec)
+conneted: 5
+conneted: 6
+sent(303001): total=10020, rate=40(msg/sec)
+sent(203001): total=6020, rate=40(msg/sec)
+sent(403001): total=14020, rate=40(msg/sec)
+sent(503000): total=18020, rate=40(msg/sec)
+sent(103001): total=2020, rate=40(msg/sec)
+conneted: 7
+conneted: 8
+sent(304001): total=10060, rate=40(msg/sec)
+sent(204001): total=6060, rate=40(msg/sec)
+sent(404001): total=14060, rate=40(msg/sec)
+sent(504000): total=18060, rate=40(msg/sec)
+sent(104001): total=2060, rate=40(msg/sec)
+conneted: 9
+conneted: 10
+sent(305001): total=10100, rate=40(msg/sec)
+sent(205001): total=6100, rate=40(msg/sec)
+sent(405001): total=14100, rate=40(msg/sec)
+sent(505000): total=18100, rate=40(msg/sec)
+sent(105001): total=2100, rate=40(msg/sec)
+conneted: 11
+conneted: 12
+sent(306001): total=10140, rate=40(msg/sec)
+sent(206001): total=6140, rate=40(msg/sec)
+sent(406001): total=14140, rate=40(msg/sec)
+sent(506000): total=18140, rate=40(msg/sec)
+sent(6001): total=2, rate=2(msg/sec)
+sent(106001): total=2140, rate=40(msg/sec)
+conneted: 13
+conneted: 14
+sent(307001): total=10180, rate=40(msg/sec)
+sent(207001): total=6180, rate=40(msg/sec)
+sent(407001): total=14180, rate=40(msg/sec)
+sent(507000): total=18180, rate=40(msg/sec)
+sent(7001): total=4, rate=2(msg/sec)
+sent(107001): total=2180, rate=40(msg/sec)
+conneted: 15
+conneted: 16
+sent(308001): total=10220, rate=40(msg/sec)
+sent(208001): total=6220, rate=40(msg/sec)
+sent(408001): total=14220, rate=40(msg/sec)
+sent(508000): total=18220, rate=40(msg/sec)
+sent(8001): total=6, rate=2(msg/sec)
+sent(108001): total=2220, rate=40(msg/sec)
+conneted: 17
+conneted: 18
+sent(309001): total=10260, rate=40(msg/sec)
+sent(209001): total=6260, rate=40(msg/sec)
+sent(409001): total=14260, rate=40(msg/sec)
+sent(509000): total=18260, rate=40(msg/sec)
+sent(9001): total=8, rate=2(msg/sec)
+sent(109001): total=2260, rate=40(msg/sec)
+conneted: 19
+conneted: 20
+sent(310001): total=10300, rate=40(msg/sec)
+sent(210001): total=6300, rate=40(msg/sec)
+sent(410001): total=14300, rate=40(msg/sec)
+sent(510000): total=18300, rate=40(msg/sec)
+sent(10001): total=10, rate=2(msg/sec)
+sent(110001): total=2300, rate=40(msg/sec)
+conneted: 21
+conneted: 22
+sent(311001): total=10340, rate=40(msg/sec)
+sent(211001): total=6340, rate=40(msg/sec)
+sent(411001): total=14340, rate=40(msg/sec)
+sent(511000): total=18340, rate=40(msg/sec)
+sent(11001): total=14, rate=4(msg/sec)
+sent(111001): total=2340, rate=40(msg/sec)
+conneted: 23
+conneted: 24
+sent(312001): total=10380, rate=40(msg/sec)
+sent(212001): total=6380, rate=40(msg/sec)
+sent(412001): total=14380, rate=40(msg/sec)
+sent(512000): total=18380, rate=40(msg/sec)
+sent(12001): total=18, rate=4(msg/sec)
+sent(112001): total=2380, rate=40(msg/sec)
+conneted: 25
+conneted: 26
+sent(313001): total=10420, rate=40(msg/sec)
+sent(213001): total=6420, rate=40(msg/sec)
+sent(413001): total=14420, rate=40(msg/sec)
+sent(513000): total=18420, rate=40(msg/sec)
+sent(13001): total=22, rate=4(msg/sec)
+sent(113001): total=2420, rate=40(msg/sec)
+conneted: 27
+conneted: 28
+sent(314001): total=10460, rate=40(msg/sec)
+sent(214001): total=6460, rate=40(msg/sec)
+sent(414001): total=14460, rate=40(msg/sec)
+sent(514000): total=18460, rate=40(msg/sec)
+sent(14001): total=26, rate=4(msg/sec)
+sent(114001): total=2460, rate=40(msg/sec)
+conneted: 29
+conneted: 30
+sent(315001): total=10500, rate=40(msg/sec)
+sent(215001): total=6500, rate=40(msg/sec)
+sent(415001): total=14500, rate=40(msg/sec)
+sent(515000): total=18500, rate=40(msg/sec)
+sent(15001): total=30, rate=4(msg/sec)
+sent(115001): total=2500, rate=40(msg/sec)
+conneted: 31
+conneted: 32
+sent(316001): total=10540, rate=40(msg/sec)
+sent(216001): total=6540, rate=40(msg/sec)
+sent(416001): total=14540, rate=40(msg/sec)
+sent(516000): total=18540, rate=40(msg/sec)
+sent(16001): total=36, rate=6(msg/sec)
+sent(116001): total=2540, rate=40(msg/sec)
+conneted: 33
+conneted: 34
+sent(317001): total=10580, rate=40(msg/sec)
+sent(217001): total=6580, rate=40(msg/sec)
+sent(417001): total=14580, rate=40(msg/sec)
+sent(517000): total=18580, rate=40(msg/sec)
+sent(17001): total=42, rate=6(msg/sec)
+sent(117001): total=2580, rate=40(msg/sec)
+conneted: 35
+conneted: 36
+sent(318001): total=10620, rate=40(msg/sec)
+sent(218001): total=6620, rate=40(msg/sec)
+sent(418001): total=14620, rate=40(msg/sec)
+sent(518000): total=18620, rate=40(msg/sec)
+sent(18001): total=48, rate=6(msg/sec)
+sent(118001): total=2620, rate=40(msg/sec)
+conneted: 37
+conneted: 38
+sent(319001): total=10660, rate=40(msg/sec)
+sent(219001): total=6660, rate=40(msg/sec)
+sent(419001): total=14660, rate=40(msg/sec)
+sent(519000): total=18660, rate=40(msg/sec)
+sent(19001): total=54, rate=6(msg/sec)
+sent(119001): total=2660, rate=40(msg/sec)
+conneted: 39
+conneted: 40
+sent(320001): total=10700, rate=40(msg/sec)
+sent(220001): total=6700, rate=40(msg/sec)
+sent(420001): total=14700, rate=40(msg/sec)
+sent(520000): total=18700, rate=40(msg/sec)
+sent(20001): total=60, rate=6(msg/sec)
+sent(120001): total=2700, rate=40(msg/sec)
+conneted: 41
+conneted: 42
+sent(321001): total=10740, rate=40(msg/sec)
+sent(221001): total=6740, rate=40(msg/sec)
+sent(421001): total=14740, rate=40(msg/sec)
+sent(521000): total=18740, rate=40(msg/sec)
+sent(21001): total=68, rate=8(msg/sec)
+sent(121001): total=2740, rate=40(msg/sec)
+conneted: 43
+conneted: 44
+sent(322001): total=10780, rate=40(msg/sec)
+sent(222001): total=6780, rate=40(msg/sec)
+sent(422001): total=14780, rate=40(msg/sec)
+sent(522000): total=18780, rate=40(msg/sec)
+sent(22001): total=76, rate=8(msg/sec)
+sent(122001): total=2780, rate=40(msg/sec)
+conneted: 45
+conneted: 46
+sent(323001): total=10820, rate=40(msg/sec)
+sent(223001): total=6820, rate=40(msg/sec)
+sent(423001): total=14820, rate=40(msg/sec)
+sent(523000): total=18820, rate=40(msg/sec)
+sent(23001): total=84, rate=8(msg/sec)
+sent(123001): total=2820, rate=40(msg/sec)
+conneted: 47
+conneted: 48
+sent(324001): total=10860, rate=40(msg/sec)
+sent(224001): total=6860, rate=40(msg/sec)
+sent(424001): total=14860, rate=40(msg/sec)
+sent(524000): total=18860, rate=40(msg/sec)
+sent(24001): total=92, rate=8(msg/sec)
+sent(124001): total=2860, rate=40(msg/sec)
+conneted: 49
+conneted: 50
+sent(325001): total=10900, rate=40(msg/sec)
+sent(225001): total=6900, rate=40(msg/sec)
+sent(425001): total=14900, rate=40(msg/sec)
+sent(525000): total=18900, rate=40(msg/sec)
+sent(25001): total=100, rate=8(msg/sec)
+sent(125001): total=2900, rate=40(msg/sec)
+conneted: 51
+conneted: 52
+sent(326001): total=10940, rate=40(msg/sec)
+sent(226001): total=6940, rate=40(msg/sec)
+sent(426001): total=14940, rate=40(msg/sec)
+sent(526000): total=18940, rate=40(msg/sec)
+sent(26001): total=110, rate=10(msg/sec)
+sent(126001): total=2940, rate=40(msg/sec)
+conneted: 53
+conneted: 54
+sent(327001): total=10980, rate=40(msg/sec)
+sent(227001): total=6980, rate=40(msg/sec)
+sent(427001): total=14980, rate=40(msg/sec)
+sent(527000): total=18980, rate=40(msg/sec)
+sent(27001): total=120, rate=10(msg/sec)
+sent(127001): total=2980, rate=40(msg/sec)
+conneted: 55
+conneted: 56
+sent(328001): total=11020, rate=40(msg/sec)
+sent(228001): total=7020, rate=40(msg/sec)
+sent(428001): total=15020, rate=40(msg/sec)
+sent(528000): total=19020, rate=40(msg/sec)
+sent(28001): total=130, rate=10(msg/sec)
+sent(128001): total=3020, rate=40(msg/sec)
+conneted: 57
+conneted: 58
+sent(329001): total=11060, rate=40(msg/sec)
+sent(229001): total=7060, rate=40(msg/sec)
+sent(429001): total=15060, rate=40(msg/sec)
+sent(529000): total=19060, rate=40(msg/sec)
+sent(29001): total=140, rate=10(msg/sec)
+sent(129001): total=3060, rate=40(msg/sec)
+conneted: 59
+conneted: 60
+sent(330001): total=11100, rate=40(msg/sec)
+sent(230001): total=7100, rate=40(msg/sec)
+sent(430001): total=15100, rate=40(msg/sec)
+sent(530000): total=19100, rate=40(msg/sec)
+sent(30001): total=150, rate=10(msg/sec)
+sent(130001): total=3100, rate=40(msg/sec)
+conneted: 61
+conneted: 62
+sent(331001): total=11140, rate=40(msg/sec)
+sent(231001): total=7140, rate=40(msg/sec)
+sent(431001): total=15140, rate=40(msg/sec)
+sent(531000): total=19140, rate=40(msg/sec)
+sent(31001): total=162, rate=12(msg/sec)
+sent(131001): total=3140, rate=40(msg/sec)
+conneted: 63
+conneted: 64
+sent(332001): total=11180, rate=40(msg/sec)
+sent(232001): total=7180, rate=40(msg/sec)
+sent(432001): total=15180, rate=40(msg/sec)
+sent(532000): total=19180, rate=40(msg/sec)
+sent(32001): total=174, rate=12(msg/sec)
+sent(132001): total=3180, rate=40(msg/sec)
+conneted: 65
+conneted: 66
+sent(333001): total=11220, rate=40(msg/sec)
+sent(233001): total=7220, rate=40(msg/sec)
+sent(433001): total=15220, rate=40(msg/sec)
+sent(533000): total=19220, rate=40(msg/sec)
+sent(33001): total=186, rate=12(msg/sec)
+sent(133001): total=3220, rate=40(msg/sec)
+conneted: 67
+conneted: 68
+sent(334001): total=11260, rate=40(msg/sec)
+sent(234001): total=7260, rate=40(msg/sec)
+sent(434001): total=15260, rate=40(msg/sec)
+sent(534000): total=19260, rate=40(msg/sec)
+sent(34001): total=198, rate=12(msg/sec)
+sent(134001): total=3260, rate=40(msg/sec)
+conneted: 69
+conneted: 70
+sent(335001): total=11300, rate=40(msg/sec)
+sent(235001): total=7300, rate=40(msg/sec)
+sent(435001): total=15300, rate=40(msg/sec)
+sent(535000): total=19300, rate=40(msg/sec)
+sent(35001): total=210, rate=12(msg/sec)
+sent(135001): total=3300, rate=40(msg/sec)
+conneted: 71
+conneted: 72
+sent(336001): total=11340, rate=40(msg/sec)
+sent(236001): total=7340, rate=40(msg/sec)
+sent(436001): total=15340, rate=40(msg/sec)
+sent(536000): total=19340, rate=40(msg/sec)
+sent(36001): total=224, rate=14(msg/sec)
+sent(136001): total=3340, rate=40(msg/sec)
+conneted: 73
+conneted: 74
+sent(337001): total=11380, rate=40(msg/sec)
+sent(237001): total=7380, rate=40(msg/sec)
+sent(437001): total=15380, rate=40(msg/sec)
+sent(537000): total=19380, rate=40(msg/sec)
+sent(37001): total=238, rate=14(msg/sec)
+sent(137001): total=3380, rate=40(msg/sec)
+conneted: 75
+conneted: 76
+sent(338001): total=11420, rate=40(msg/sec)
+sent(238001): total=7420, rate=40(msg/sec)
+sent(438001): total=15420, rate=40(msg/sec)
+sent(538000): total=19420, rate=40(msg/sec)
+sent(38001): total=252, rate=14(msg/sec)
+sent(138001): total=3420, rate=40(msg/sec)
+conneted: 77
+conneted: 78
+sent(339001): total=11460, rate=40(msg/sec)
+sent(239001): total=7460, rate=40(msg/sec)
+sent(439001): total=15460, rate=40(msg/sec)
+sent(539000): total=19460, rate=40(msg/sec)
+sent(39001): total=266, rate=14(msg/sec)
+sent(139001): total=3460, rate=40(msg/sec)
+conneted: 79
+conneted: 80
+sent(340001): total=11500, rate=40(msg/sec)
+sent(240001): total=7500, rate=40(msg/sec)
+sent(440001): total=15500, rate=40(msg/sec)
+sent(540000): total=19500, rate=40(msg/sec)
+sent(40001): total=280, rate=14(msg/sec)
+sent(140001): total=3500, rate=40(msg/sec)
+conneted: 81
+conneted: 82
+sent(341001): total=11540, rate=40(msg/sec)
+sent(241001): total=7540, rate=40(msg/sec)
+sent(441001): total=15540, rate=40(msg/sec)
+sent(541000): total=19540, rate=40(msg/sec)
+sent(41001): total=296, rate=16(msg/sec)
+sent(141001): total=3540, rate=40(msg/sec)
+conneted: 83
+[error] [Client <0.582.0>] CONNACK Timeout!
+client 38 EXIT: {shutdown,connack_timeout}
+conneted: 84
+[error] [Client <0.585.0>] CONNACK Timeout!
+client 37 EXIT: {shutdown,connack_timeout}
+sent(342001): total=11580, rate=40(msg/sec)
+sent(242001): total=7580, rate=40(msg/sec)
+sent(442001): total=15580, rate=40(msg/sec)
+sent(542000): total=19580, rate=40(msg/sec)
+sent(42001): total=312, rate=16(msg/sec)
+sent(142000): total=3580, rate=40(msg/sec)
+conneted: 85
+[error] [Client <0.588.0>] CONNACK Timeout!
+client 36 EXIT: {shutdown,connack_timeout}
+conneted: 86
+[error] [Client <0.591.0>] CONNACK Timeout!
+client 35 EXIT: {shutdown,connack_timeout}
+sent(343001): total=11620, rate=40(msg/sec)
+sent(243001): total=7620, rate=40(msg/sec)
+sent(443001): total=15620, rate=40(msg/sec)
+sent(543000): total=19620, rate=40(msg/sec)
+sent(43001): total=328, rate=16(msg/sec)
+sent(143000): total=3620, rate=40(msg/sec)
+conneted: 87
+[error] [Client <0.594.0>] CONNACK Timeout!
+client 34 EXIT: {shutdown,connack_timeout}
+conneted: 88
+[error] [Client <0.597.0>] CONNACK Timeout!
+client 33 EXIT: {shutdown,connack_timeout}
+sent(344001): total=11660, rate=40(msg/sec)
+sent(244001): total=7660, rate=40(msg/sec)
+sent(444001): total=15660, rate=40(msg/sec)
+sent(544000): total=19660, rate=40(msg/sec)
+sent(44001): total=344, rate=16(msg/sec)
+sent(144000): total=3660, rate=40(msg/sec)
+conneted: 89
+[error] [Client <0.600.0>] CONNACK Timeout!
+client 32 EXIT: {shutdown,connack_timeout}
+conneted: 90
+[error] [Client <0.603.0>] CONNACK Timeout!
+client 31 EXIT: {shutdown,connack_timeout}
+sent(345001): total=11700, rate=40(msg/sec)
+sent(245001): total=7700, rate=40(msg/sec)
+sent(445001): total=15700, rate=40(msg/sec)
+sent(545000): total=19700, rate=40(msg/sec)
+sent(45001): total=360, rate=16(msg/sec)
+sent(145000): total=3700, rate=40(msg/sec)
+conneted: 91
+[error] [Client <0.606.0>] CONNACK Timeout!
+client 30 EXIT: {shutdown,connack_timeout}
+conneted: 92
+[error] [Client <0.609.0>] CONNACK Timeout!
+client 29 EXIT: {shutdown,connack_timeout}
+sent(346001): total=11740, rate=40(msg/sec)
+sent(246001): total=7740, rate=40(msg/sec)
+sent(446001): total=15740, rate=40(msg/sec)
+sent(546000): total=19740, rate=40(msg/sec)
+sent(46001): total=378, rate=18(msg/sec)
+sent(146000): total=3740, rate=40(msg/sec)
+conneted: 93
+[error] [Client <0.612.0>] CONNACK Timeout!
+client 28 EXIT: {shutdown,connack_timeout}
+conneted: 94
+[error] [Client <0.615.0>] CONNACK Timeout!
+client 27 EXIT: {shutdown,connack_timeout}
+sent(347001): total=11780, rate=40(msg/sec)
+sent(247001): total=7780, rate=40(msg/sec)
+sent(447001): total=15780, rate=40(msg/sec)
+sent(547000): total=19780, rate=40(msg/sec)
+sent(47001): total=396, rate=18(msg/sec)
+sent(147000): total=3778, rate=38(msg/sec)
+conneted: 95
+[error] [Client <0.618.0>] CONNACK Timeout!
+client 26 EXIT: {shutdown,connack_timeout}
+conneted: 96
+[error] [Client <0.621.0>] CONNACK Timeout!
+client 25 EXIT: {shutdown,connack_timeout}
+sent(348001): total=11820, rate=40(msg/sec)
+sent(248001): total=7820, rate=40(msg/sec)
+sent(448001): total=15820, rate=40(msg/sec)
+sent(548000): total=19820, rate=40(msg/sec)
+sent(48001): total=414, rate=18(msg/sec)
+sent(148000): total=3816, rate=38(msg/sec)
+conneted: 97
+[error] [Client <0.624.0>] CONNACK Timeout!
+client 24 EXIT: {shutdown,connack_timeout}
+conneted: 98
+[error] [Client <0.627.0>] CONNACK Timeout!
+client 23 EXIT: {shutdown,connack_timeout}
+sent(349001): total=11860, rate=40(msg/sec)
+sent(249001): total=7860, rate=40(msg/sec)
+sent(449001): total=15860, rate=40(msg/sec)
+sent(549000): total=19860, rate=40(msg/sec)
+sent(49001): total=432, rate=18(msg/sec)
+sent(149000): total=3854, rate=38(msg/sec)
+conneted: 99
+[error] [Client <0.630.0>] CONNACK Timeout!
+client 22 EXIT: {shutdown,connack_timeout}
+conneted: 100
+[error] [Client <0.633.0>] CONNACK Timeout!
+client 21 EXIT: {shutdown,connack_timeout}
+sent(350001): total=11900, rate=40(msg/sec)
+sent(250001): total=7900, rate=40(msg/sec)
+sent(450001): total=15900, rate=40(msg/sec)
+sent(550000): total=19900, rate=40(msg/sec)
+sent(50001): total=450, rate=18(msg/sec)
+sent(150000): total=3892, rate=38(msg/sec)
+conneted: 101
+[error] [Client <0.636.0>] CONNACK Timeout!
+client 20 EXIT: {shutdown,connack_timeout}
+conneted: 102
+[error] [Client <0.639.0>] CONNACK Timeout!
+client 19 EXIT: {shutdown,connack_timeout}
+sent(351001): total=11940, rate=40(msg/sec)
+sent(251001): total=7940, rate=40(msg/sec)
+sent(451001): total=15940, rate=40(msg/sec)
+sent(551000): total=19940, rate=40(msg/sec)
+sent(51001): total=470, rate=20(msg/sec)
+sent(151000): total=3930, rate=38(msg/sec)
+conneted: 103
+[error] [Client <0.642.0>] CONNACK Timeout!
+client 18 EXIT: {shutdown,connack_timeout}
+conneted: 104
+[error] [Client <0.645.0>] CONNACK Timeout!
+client 17 EXIT: {shutdown,connack_timeout}
+sent(352001): total=11980, rate=40(msg/sec)
+sent(252001): total=7980, rate=40(msg/sec)
+sent(452001): total=15980, rate=40(msg/sec)
+sent(552000): total=19980, rate=40(msg/sec)
+sent(52001): total=490, rate=20(msg/sec)
+sent(152000): total=3966, rate=36(msg/sec)
+conneted: 105
+[error] [Client <0.648.0>] CONNACK Timeout!
+client 16 EXIT: {shutdown,connack_timeout}
+conneted: 106
+[error] [Client <0.651.0>] CONNACK Timeout!
+client 15 EXIT: {shutdown,connack_timeout}
+sent(353001): total=12020, rate=40(msg/sec)
+sent(253001): total=8020, rate=40(msg/sec)
+sent(453001): total=16020, rate=40(msg/sec)
+sent(553000): total=20020, rate=40(msg/sec)
+sent(53001): total=510, rate=20(msg/sec)
+sent(153000): total=4002, rate=36(msg/sec)
+conneted: 107
+[error] [Client <0.654.0>] CONNACK Timeout!
+client 14 EXIT: {shutdown,connack_timeout}
+conneted: 108
+[error] [Client <0.657.0>] CONNACK Timeout!
+client 13 EXIT: {shutdown,connack_timeout}
+sent(354001): total=12060, rate=40(msg/sec)
+sent(254001): total=8060, rate=40(msg/sec)
+sent(454001): total=16060, rate=40(msg/sec)
+sent(554000): total=20060, rate=40(msg/sec)
+sent(54001): total=530, rate=20(msg/sec)
+sent(154000): total=4038, rate=36(msg/sec)
+conneted: 109
+[error] [Client <0.660.0>] CONNACK Timeout!
+client 12 EXIT: {shutdown,connack_timeout}
+conneted: 110
+[error] [Client <0.663.0>] CONNACK Timeout!
+client 11 EXIT: {shutdown,connack_timeout}
+sent(355001): total=12100, rate=40(msg/sec)
+sent(255001): total=8100, rate=40(msg/sec)
+sent(455001): total=16100, rate=40(msg/sec)
+sent(555000): total=20100, rate=40(msg/sec)
+sent(55001): total=550, rate=20(msg/sec)
+sent(155000): total=4074, rate=36(msg/sec)
+conneted: 111
+[error] [Client <0.666.0>] CONNACK Timeout!
+client 10 EXIT: {shutdown,connack_timeout}
+conneted: 112
+[error] [Client <0.669.0>] CONNACK Timeout!
+client 9 EXIT: {shutdown,connack_timeout}
+sent(356001): total=12140, rate=40(msg/sec)
+sent(256001): total=8140, rate=40(msg/sec)
+sent(456001): total=16140, rate=40(msg/sec)
+sent(556000): total=20140, rate=40(msg/sec)
+sent(56001): total=572, rate=22(msg/sec)
+sent(156000): total=4110, rate=36(msg/sec)
+conneted: 113
+[error] [Client <0.672.0>] CONNACK Timeout!
+client 8 EXIT: {shutdown,connack_timeout}
+conneted: 114
+[error] [Client <0.675.0>] CONNACK Timeout!
+client 7 EXIT: {shutdown,connack_timeout}
+sent(357001): total=12180, rate=40(msg/sec)
+sent(257001): total=8180, rate=40(msg/sec)
+sent(457001): total=16180, rate=40(msg/sec)
+sent(557000): total=20180, rate=40(msg/sec)
+sent(57001): total=594, rate=22(msg/sec)
+sent(157000): total=4144, rate=34(msg/sec)
+conneted: 115
+[error] [Client <0.678.0>] CONNACK Timeout!
+client 6 EXIT: {shutdown,connack_timeout}
+conneted: 116
+[error] [Client <0.681.0>] CONNACK Timeout!
+client 5 EXIT: {shutdown,connack_timeout}
+sent(358001): total=12220, rate=40(msg/sec)
+sent(258001): total=8220, rate=40(msg/sec)
+sent(458001): total=16220, rate=40(msg/sec)
+sent(558000): total=20220, rate=40(msg/sec)
+sent(58001): total=616, rate=22(msg/sec)
+sent(158000): total=4178, rate=34(msg/sec)
+conneted: 117
+client 144 EXIT: {shutdown,tcp_closed}
+[error] [Client <0.684.0>] CONNACK Timeout!
+client 4 EXIT: {shutdown,connack_timeout}
+client 166 EXIT: {shutdown,tcp_closed}
+conneted: 118
+[error] [Client <0.687.0>] CONNACK Timeout!
+client 3 EXIT: {shutdown,connack_timeout}
+sent(359001): total=12260, rate=40(msg/sec)
+sent(259001): total=8260, rate=40(msg/sec)
+sent(459001): total=16260, rate=40(msg/sec)
+sent(559000): total=20260, rate=40(msg/sec)
+sent(59001): total=638, rate=22(msg/sec)
+sent(159000): total=4212, rate=34(msg/sec)
+conneted: 119
+[error] [Client <0.690.0>] CONNACK Timeout!
+client 2 EXIT: {shutdown,connack_timeout}
+conneted: 120
+[error] [Client <0.693.0>] CONNACK Timeout!
+client 1 EXIT: {shutdown,connack_timeout}
+sent(360001): total=12300, rate=40(msg/sec)
+sent(260001): total=8300, rate=40(msg/sec)
+sent(460001): total=16300, rate=40(msg/sec)
+sent(560000): total=20300, rate=40(msg/sec)
+sent(60001): total=660, rate=22(msg/sec)
+sent(160000): total=4246, rate=34(msg/sec)
+conneted: 121
+[error] [Client <0.94.0>] CONNACK Timeout!
+client 200 EXIT: {shutdown,connack_timeout}
+conneted: 122
+[error] [Client <0.99.0>] CONNACK Timeout!
+client 199 EXIT: {shutdown,connack_timeout}
+sent(361001): total=12340, rate=40(msg/sec)
+sent(261001): total=8340, rate=40(msg/sec)
+sent(461001): total=16340, rate=40(msg/sec)
+sent(561000): total=20340, rate=40(msg/sec)
+sent(61001): total=684, rate=24(msg/sec)
+sent(161001): total=4280, rate=34(msg/sec)
+conneted: 123
+[error] [Client <0.102.0>] CONNACK Timeout!
+client 198 EXIT: {shutdown,connack_timeout}
+client 134 EXIT: {shutdown,tcp_closed}
+conneted: 124
+[error] [Client <0.105.0>] CONNACK Timeout!
+client 197 EXIT: {shutdown,connack_timeout}
+sent(362001): total=12380, rate=40(msg/sec)
+sent(262001): total=8380, rate=40(msg/sec)
+sent(462001): total=16380, rate=40(msg/sec)
+sent(562000): total=20380, rate=40(msg/sec)
+sent(62001): total=708, rate=24(msg/sec)
+sent(162001): total=4312, rate=32(msg/sec)
+client 138 EXIT: {shutdown,tcp_closed}
+conneted: 125
+[error] [Client <0.108.0>] CONNACK Timeout!
+client 196 EXIT: {shutdown,connack_timeout}
+client 160 EXIT: {shutdown,tcp_closed}
+conneted: 126
+[error] [Client <0.111.0>] CONNACK Timeout!
+client 195 EXIT: {shutdown,connack_timeout}
+sent(363001): total=12420, rate=40(msg/sec)
+sent(263001): total=8420, rate=40(msg/sec)
+sent(463001): total=16420, rate=40(msg/sec)
+sent(563000): total=20420, rate=40(msg/sec)
+sent(63001): total=731, rate=23(msg/sec)
+sent(163001): total=4344, rate=32(msg/sec)
+conneted: 127
+[error] [Client <0.114.0>] CONNACK Timeout!
+client 194 EXIT: {shutdown,connack_timeout}
+client 130 EXIT: {shutdown,tcp_closed}
+client 128 EXIT: {shutdown,tcp_closed}
+conneted: 128
+[error] [Client <0.117.0>] CONNACK Timeout!
+client 193 EXIT: {shutdown,connack_timeout}
+sent(364001): total=12460, rate=40(msg/sec)
+sent(264001): total=8460, rate=40(msg/sec)
+sent(464001): total=16460, rate=40(msg/sec)
+sent(564000): total=20460, rate=40(msg/sec)
+sent(64001): total=753, rate=22(msg/sec)
+sent(164001): total=4376, rate=32(msg/sec)
+conneted: 129
+[error] [Client <0.120.0>] CONNACK Timeout!
+client 192 EXIT: {shutdown,connack_timeout}
+conneted: 130
+[error] [Client <0.123.0>] CONNACK Timeout!
+client 191 EXIT: {shutdown,connack_timeout}
+sent(365001): total=12500, rate=40(msg/sec)
+sent(265001): total=8500, rate=40(msg/sec)
+sent(465001): total=16500, rate=40(msg/sec)
+sent(565000): total=20500, rate=40(msg/sec)
+sent(65001): total=777, rate=24(msg/sec)
+sent(165001): total=4408, rate=32(msg/sec)
+conneted: 131
+[error] [Client <0.126.0>] CONNACK Timeout!
+client 190 EXIT: {shutdown,connack_timeout}
+client 126 EXIT: {shutdown,tcp_closed}
+conneted: 132
+[error] [Client <0.129.0>] CONNACK Timeout!
+client 189 EXIT: {shutdown,connack_timeout}
+sent(366001): total=12540, rate=40(msg/sec)
+sent(266001): total=8540, rate=40(msg/sec)
+sent(466001): total=16540, rate=40(msg/sec)
+sent(566000): total=20540, rate=40(msg/sec)
+sent(66001): total=799, rate=22(msg/sec)
+sent(166001): total=4442, rate=34(msg/sec)
+conneted: 133
+[error] [Client <0.132.0>] CONNACK Timeout!
+client 188 EXIT: {shutdown,connack_timeout}
+conneted: 134
+[error] [Client <0.135.0>] CONNACK Timeout!
+client 187 EXIT: {shutdown,connack_timeout}
+sent(367001): total=12580, rate=40(msg/sec)
+sent(267001): total=8580, rate=40(msg/sec)
+sent(467001): total=16580, rate=40(msg/sec)
+sent(567000): total=20580, rate=40(msg/sec)
+sent(67001): total=821, rate=22(msg/sec)
+sent(167001): total=4474, rate=32(msg/sec)
+client 124 EXIT: {shutdown,tcp_closed}
+conneted: 135
+[error] [Client <0.138.0>] CONNACK Timeout!
+client 186 EXIT: {shutdown,connack_timeout}
+client 120 EXIT: {shutdown,tcp_closed}
+conneted: 136
+[error] [Client <0.141.0>] CONNACK Timeout!
+client 185 EXIT: {shutdown,connack_timeout}
+sent(368001): total=12620, rate=40(msg/sec)
+sent(268001): total=8620, rate=40(msg/sec)
+sent(468001): total=16620, rate=40(msg/sec)
+sent(568000): total=20620, rate=40(msg/sec)
+sent(68001): total=843, rate=22(msg/sec)
+sent(168001): total=4506, rate=32(msg/sec)
+conneted: 137
+[error] [Client <0.144.0>] CONNACK Timeout!
+client 184 EXIT: {shutdown,connack_timeout}
+conneted: 138
+[error] [Client <0.147.0>] CONNACK Timeout!
+client 183 EXIT: {shutdown,connack_timeout}
+sent(369001): total=12660, rate=40(msg/sec)
+sent(269001): total=8660, rate=40(msg/sec)
+sent(469001): total=16660, rate=40(msg/sec)
+sent(569000): total=20660, rate=40(msg/sec)
+sent(69001): total=864, rate=21(msg/sec)
+sent(169001): total=4538, rate=32(msg/sec)
+client 132 EXIT: {shutdown,tcp_closed}
+client 161 EXIT: {shutdown,tcp_closed}
+conneted: 139
+[error] [Client <0.150.0>] CONNACK Timeout!
+client 182 EXIT: {shutdown,connack_timeout}
+conneted: 140
+[error] [Client <0.153.0>] CONNACK Timeout!
+client 181 EXIT: {shutdown,connack_timeout}
+client 169 EXIT: {shutdown,tcp_closed}
+sent(370001): total=12700, rate=40(msg/sec)
+sent(270001): total=8700, rate=40(msg/sec)
+sent(470001): total=16700, rate=40(msg/sec)
+sent(570000): total=20700, rate=40(msg/sec)
+sent(70001): total=886, rate=22(msg/sec)
+sent(170001): total=4570, rate=32(msg/sec)
+client 118 EXIT: {shutdown,tcp_closed}
+conneted: 141
+[error] [Client <0.156.0>] CONNACK Timeout!
+client 180 EXIT: {shutdown,connack_timeout}
+conneted: 142
+[error] [Client <0.159.0>] CONNACK Timeout!
+client 179 EXIT: {shutdown,connack_timeout}
+sent(371001): total=12740, rate=40(msg/sec)
+sent(271001): total=8740, rate=40(msg/sec)
+sent(471001): total=16740, rate=40(msg/sec)
+client 155 EXIT: {shutdown,tcp_closed}
+client 116 EXIT: {shutdown,tcp_closed}
+sent(571000): total=20740, rate=40(msg/sec)
+sent(71001): total=906, rate=20(msg/sec)
+sent(171001): total=4604, rate=34(msg/sec)
+erl_child_setup closed
+erl_child_setup closed
+
+Crash dump is being written to: erl_crash.dump...
+Crash dump is being written to: erl_crash.dump...erl_child_setup closed
+
+Crash dump is being written to: erl_crash.dump...erl_child_setup closed
+
+Crash dump is being written to: erl_crash.dump...erl_child_setup closed
+
+Crash dump is being written to: erl_crash.dump...erl_child_setup closed
+
+Crash dump is being written to: erl_crash.dump...done
+done
+done
+done
+done
+done
