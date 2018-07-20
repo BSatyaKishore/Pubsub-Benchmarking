@@ -38,7 +38,7 @@ start(PubSub, Opts) ->
     prepare(), init(),
     spawn(?MODULE, run, [self(), PubSub, Opts]),
     timer:send_interval(1000, stats),
-    main_loop(os:timestamp(), 1+proplists:get_value(startnumber, Opts)).
+    main_loop(os:timestamp(), 1+proplists:get_value(startnumber, Opts), proplists:get_value(topic,Opts)).
 
 prepare() ->
     application:ensure_all_started(emqtt_benchmark).
@@ -50,31 +50,31 @@ init() ->
     put({stats, sent}, 0),
     ets:insert(?TAB, {sent, 0}).
 
-main_loop(Uptime, Count) ->
+main_loop(Uptime, Count, Topic) ->
 	receive
 		{connected, _N, _Client} ->
 			io:format("conneted: ~w~n", [Count]),
-			main_loop(Uptime, Count+1);
+			main_loop(Uptime, Count+1, Topic);
         stats ->
-            print_stats(Uptime),
-			main_loop(Uptime, Count);
+            print_stats(Uptime, Topic),
+			main_loop(Uptime, Count, Topic);
         Msg ->
             io:format("~p~n", [Msg]),
-            main_loop(Uptime, Count)
+            main_loop(Uptime, Count, Topic)
 	end.
 
-print_stats(Uptime) ->
-    print_stats(Uptime, recv),
-    print_stats(Uptime, sent).
+print_stats(Uptime, Topic) ->
+    print_stats(Uptime, recv, Topic),
+    print_stats(Uptime, sent, Topic).
 
-print_stats(Uptime, Key) ->
+print_stats(Uptime, Key, Topic) ->
     [{Key, Val}] = ets:lookup(?TAB, Key),
     LastVal = get({stats, Key}),
     case Val == LastVal of
         false ->
             Tdiff = timer:now_diff(os:timestamp(), Uptime) div 1000,
-            io:format("~s(~w): total=~w, rate=~w(msg/sec)~n",
-                        [Key, Tdiff, Val, Val - LastVal]),
+            io:format("~s(~w): total=~w, rate=~w(msg/sec), ~s     ~n",
+                        [Key, Tdiff, Val, Val - LastVal, Topic]),
             put({stats, Key}, Val);
         true  ->
             ok
