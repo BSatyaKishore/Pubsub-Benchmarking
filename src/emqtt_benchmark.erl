@@ -22,9 +22,14 @@
 
 -module(emqtt_benchmark).
 
--export([main/2, start/2, run/3, connect/4, loop/4]).
+-export([pub_http/0, prepare/0,main/2, start/2, run/3, connect/4, loop/4, print_quality_stats/0, print_list/1, time_diff/1]).
 
 -define(TAB, eb_stats).
+
+get_timestamp() ->
+    {A, B, C} = erlang:now(),
+    SentTime = ((A*1000000+B)*1000000+C),
+    iolist_to_binary(lists:flatten(io_lib:format("~p", [SentTime]))).
 
 main(sub, Opts) ->
     start(sub, Opts);
@@ -35,20 +40,75 @@ main(pub, Opts) ->
     start(pub, [{payload, Payload} | Opts]).
 
 start(PubSub, Opts) ->
-    prepare(), init(),
+    prepare(), 
+    %timer:sleep(5000),
+    init(),
     spawn(?MODULE, run, [self(), PubSub, Opts]),
     timer:send_interval(1000, stats),
     main_loop(os:timestamp(), 1+proplists:get_value(startnumber, Opts), proplists:get_value(topic,Opts)).
 
 prepare() ->
-    application:ensure_all_started(emqtt_benchmark).
+    %application:ensure_all_started(restc),
+    ssl:start(),
+    inets:start(),
+    %timer:sleep(1000),
+    %pub_http(),
+    %restc:request(get, "https://api.github.com"),
+    httpc:request(get, {"http://www.erlang.org", []}, [], []).
+    %application:ensure_all_started(emqtt_benchmark).
+
+get_list(0) ->
+        [];
+get_list(N) ->
+        [{N, 0} | get_list(N-1)].
+
+ets_init() ->
+   ets:new(ingredients, [set, named_table, public]),
+   ets:insert(ingredients, get_list(10000)).
+
+print_quality_stats() ->
+   io:fwrite("~s ~n",[get_timestamp()]),
+   timer:sleep(1000),
+   print_list(ets:match_object(ingredients, {'$0', '$1'})),
+   %timer:sleep(10000),
+   print_quality_stats().
+
+print_list([]) ->
+   [];
+
+print_list([{A,B} | T]) ->
+   % io:fwrite("~B~25.B~n",[A,B]),
+   print_list(T).
+
+add_timestamp(Payload) ->
+   {SentTime, _ } = string:to_integer(Payload),
+   {A, B, C} = erlang:now(),
+   TimeTaken = ((A*1000000+B)*1000000+C - SentTime) div 1000,
+   io:fwrite("~B~n",[TimeTaken]).
 
 init() ->
+    ets_init(),
+    timer:sleep(1000),
+    spawn(?MODULE,print_quality_stats,[]),
     ets:new(?TAB, [public, named_table, {write_concurrency, true}]),
     put({stats, recv}, 0),
     ets:insert(?TAB, {recv, 0}),
     put({stats, sent}, 0),
     ets:insert(?TAB, {sent, 0}).
+
+time_diff(Payload) ->
+   %{SentTime, K } = string:to_integer(Payload),
+   SentTime =  list_to_integer(binary_to_list(Payload)),
+   {A, B, C} = erlang:now(),
+   TimeTaken = ((A*1000000+B)*1000000+C - SentTime) div 1000,
+   % Write it in ets
+   % add_timestamp(Payload).
+   [{E,D}] = ets:lookup(ingredients, TimeTaken),
+   F = D+1,
+   % ets:delete(ingredients, TimeTaken),
+   ets:insert(ingredients, {TimeTaken, F}),
+   ok.
+   %io:fwrite("~B~n",[ets:lookup(ingredients, TimeTaken)]). %ets.
 
 main_loop(Uptime, Count, Topic) ->
 	receive
@@ -73,7 +133,7 @@ print_stats(Uptime, Key, Topic) ->
     case Val == LastVal of
         false ->
             Tdiff = timer:now_diff(os:timestamp(), Uptime) div 1000,
-            io:format("~s(~w): total=~w, rate=~w(msg/sec), ~s     ~n",
+            io:format("~s(~w): total=~w, rate=~w(msg/sec), ~s   ~n",
                         [Key, Tdiff, Val, Val - LastVal, Topic]),
             put({stats, Key}, Val);
         true  ->
@@ -93,32 +153,47 @@ run(Parent, N, PubSub, Opts) ->
 connect(Parent, N, PubSub, Opts) ->
     process_flag(trap_exit, true),
     random:seed(os:timestamp()),
-    ClientId = client_id(PubSub, N, Opts),
-    MqttOpts = [{client_id, ClientId} | mqtt_opts(Opts)],
-    TcpOpts  = tcp_opts(Opts),
-    AllOpts  = [{seq, N}, {client_id, ClientId} | Opts],
-	case emqttc:start_link(MqttOpts, TcpOpts) of
-    {ok, Client} ->
-        Parent ! {connected, N, Client},
-        case PubSub of
-            sub ->
-                subscribe(Client, AllOpts);
-            pub ->
-               Interval = proplists:get_value(interval_of_msg, Opts),
-               timer:send_interval(Interval, publish)
-        end,
-        loop(N, Client, PubSub, AllOpts);
-    {error, Error} ->
-        io:format("client ~p connect error: ~p~n", [N, Error])
-    end.
+    % HTTP Added
+    Interval = proplists:get_value(interval_of_msg, Opts),
+    timer:send_interval(Interval, publish),
+    loop(N, 1, PubSub, []).
+    %
+    % ClientId = client_id(PubSub, N, Opts),
+    % MqttOpts = [{client_id, ClientId} | mqtt_opts(Opts)],
+    % TcpOpts  = tcp_opts(Opts),
+    % AllOpts  = [{seq, N}, {client_id, ClientId} | Opts],
+    %	case emqttc:start_link(MqttOpts, TcpOpts) of
+    % {ok, Client} ->
+    %    Parent ! {connected, N, Client},
+    %    case PubSub of
+    %        sub ->
+    %            subscribe(Client, AllOpts);
+    %        pub ->
+    %           Interval = proplists:get_value(interval_of_msg, Opts),
+    %           timer:send_interval(Interval, publish)
+    %    end,
+    %    loop(N, Client, PubSub, AllOpts);
+    % {error, Error} ->
+    %     io:format("client ~p connect error: ~p~n", [N, Error])
+    % end.
+
+pub_http() ->
+    %io:format("client-361 "),
+    % timer:sleep(1000),
+    httpc:request(get, {"https://pubsub1.mlkcca.com/api/send/rkk_d5fDQ/c9hjLY04CGAVn350QcEjMDWwhN2ismsSNdfa1q44?c=demo&v=361", []}, [], []),
+    % restc:request(get, "https://pubsub1.mlkcca.com/api/push/rkk_d5fDQ/c9hjLY04CGAVn350QcEjMDWwhN2ismsSNdfa1q44?c=demo&v=10").
+    ets:update_counter(?TAB, recv, {2, 1}).
 
 loop(N, Client, PubSub, Opts) ->
     receive
         publish ->
-            publish(Client, Opts),
+            spawn(?MODULE,pub_http, []),
+            % pub_http(),
+	    % io:fwrite("~s ~n",[get_timestamp()]),
             ets:update_counter(?TAB, sent, {2, 1}),
             loop(N, Client, PubSub, Opts);
         {publish, _Topic, _Payload} ->
+	    spawn(?MODULE, time_diff, [_Payload]),
             ets:update_counter(?TAB, recv, {2, 1}),
             loop(N, Client, PubSub, Opts);
         {'EXIT', Client, Reason} ->
@@ -132,7 +207,7 @@ subscribe(Client, Opts) ->
 publish(Client, Opts) ->
     Flags   = [{qos, proplists:get_value(qos, Opts)},
                {retain, proplists:get_value(retain, Opts)}],
-    Payload = proplists:get_value(payload, Opts),
+    Payload = get_timestamp(), % proplists:get_value(payload, Opts),
     emqttc:publish(Client, topic_opt(Opts), Payload, Flags).
 
 mqtt_opts(Opts) ->
